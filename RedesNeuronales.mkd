@@ -1,3 +1,5 @@
+# José Manuel Pantoja Cortes. 
+
 # Red Neuronal para Jugar 5 en Línea en un Tablero 20x20  
 
 Voy a intentar hacer una red neuronal que pueda jugar al 5 en línea sin gravedad en un tablero de 20x20. No soy un experto, pero voy a explicarlo a mi manera.  
@@ -34,7 +36,3 @@ La red debería dar una salida que indique **en qué casilla jugar**. Puede ser 
 ## Valores Máximos del Bias  
 
 El bias en cada capa puede tener valores variados, pero en general suele moverse en un rango como **-1 a 1** o **-10 a 10**, dependiendo de cómo se entrene la red. Su función es ayudar a ajustar la activación de las neuronas para mejorar el aprendizaje.  
-
----  
-
-No es una explicación ultra técnica, pero más o menos así se puede armar la idea de cómo hacer la red neuronal para jugar al 5 en línea. 🚀  
