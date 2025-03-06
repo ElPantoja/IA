@@ -1,0 +1,40 @@
+# Red Neuronal para Jugar 5 en Línea en un Tablero 20x20  
+
+Voy a intentar hacer una red neuronal que pueda jugar al 5 en línea sin gravedad en un tablero de 20x20. No soy un experto, pero voy a explicarlo a mi manera.  
+
+## Tipo de Red Neuronal y Partes  
+
+Voy a usar una red neuronal tipo **red neuronal profunda (DNN)** porque básicamente toma datos de entrada, los procesa en varias capas y da una salida.  
+
+Las partes serían más o menos así:  
+- **Entrada:** El tablero, que se convierte en números para que la red lo entienda.  
+- **Capas ocultas:** Aquí es donde la red aprende patrones y estrategias.  
+- **Salida:** Un valor que indica la mejor jugada posible.  
+- **Bias y Pesos:** Ajustan cómo la red toma decisiones.  
+
+## Patrones a Utilizar  
+
+La red tiene que aprender ciertos patrones para saber dónde jugar, como:  
+- Filas, columnas y diagonales con fichas propias o del rival.  
+- Posiciones estratégicas donde se puede ganar en la siguiente jugada.  
+- Bloqueos para evitar que el oponente gane.  
+
+Básicamente, tiene que "ver" el tablero y decidir en qué lugar jugar para ganar o defenderse.  
+
+## Número Máximo de Entradas  
+
+El tablero es de 20x20, así que son **400 entradas** (una por cada casilla). Cada casilla puede tener un 0 (vacío), un 1 (ficha propia) o un -1 (ficha del rival).  
+
+## Valores de Salida Esperados  
+
+La red debería dar una salida que indique **en qué casilla jugar**. Puede ser algo como:  
+- Un número del 0 al 399 (representando cada casilla del tablero).  
+- Una matriz de probabilidades (cada casilla con un valor entre 0 y 1 que indica qué tan buena es la jugada).  
+
+## Valores Máximos del Bias  
+
+El bias en cada capa puede tener valores variados, pero en general suele moverse en un rango como **-1 a 1** o **-10 a 10**, dependiendo de cómo se entrene la red. Su función es ayudar a ajustar la activación de las neuronas para mejorar el aprendizaje.  
+
+---  
+
+No es una explicación ultra técnica, pero más o menos así se puede armar la idea de cómo hacer la red neuronal para jugar al 5 en línea. 🚀  
