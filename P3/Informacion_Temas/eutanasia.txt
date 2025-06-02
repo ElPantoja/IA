@@ -1,0 +1,1384 @@
+PERSONA Y DERECHO / VOL. 88 / 2023/1 / 53-86
+53
+ISSN 0211-4526 / DOI 10.15581/011.88.003
+Eutanasia, objeción de conciencia 
+y aplicaciones tecnológicas
+Euthanasia, Conscientious Objection 
+and Technological Applications
+Ramón Darío Valdivia Jiménez
+Facultad de Teología «San Isidoro de Sevilla» 
+CES Cardenal Spínola – Fundación CEU Andalucía 
+ramvg1974@gmail.com 
+https://orcid.org/0000-0001-9064-1853
+RECIBIDO: 12/09/2022 / ACEPTADO: 12/01/2023
+Resumen: La creciente aceptación social de la eutana-
+sia contrasta con la opinión de la profesión médica que, 
+aunque goce de ciertas garantías en la LORE, puede ver 
+alterado su código deontológico si el Sistema Nacional 
+de Salud transforma la relación humana entre médico-
+paciente por una relación, cada vez más expansiva, de 
+tipo tecnológico.
+La complejidad de la valoración del contexto euta-
+násico y la fuerte animadversión de la profesión médica 
+a la aplicación de la eutanasia no pueden servir de criterio 
+para fomentar la robotización de una sanidad, que tiene 
+como principios el respeto de la vida humana, la dignidad 
+de la persona y el cuidado de la salud del individuo y de la 
+comunidad.
+Este trabajo presenta un análisis crítico con la hipó-
+tesis de la aplicación de nuevas tecnologías que pudieran 
+suplantar la objeción de conciencia individual y de la pro-
+fesión médica respecto a la eutanasia.
+Palabras clave: eutanasia; objeción de conciencia; deon-
+tología; inteligencia artificial; robótica.
+Abstract: The growing social acceptance of euthanasia 
+contrasts with the opinion of the medical profession that, 
+although it enjoys certain guarantees in the LORE, its de-
+ontological code may be altered if the National Health 
+System transforms the human relationship between doc-
+tor-patient into a relationship, increasingly expansive, of a 
+technological nature.
+The complexity of the evaluation of the euthanasia 
+context and the strong animosity of the medical profes-
+sion towards the application of euthanasia, cannot serve 
+as a criterion to promote the robotization of a healthcare 
+whose principles are respect for human life, the dignity of 
+person and the health care of the individual and the com-
+munity.
+This paper presents a critical analysis of the hypothesis 
+of the application of new technologies that could replace 
+individual conscientious objection and that of the medical 
+profession regarding euthanasia.
+Keywords: Euthanasia; Conscientious objection; Deon-
+tology; Artificial Intelligence; Robotics.
+I. Introducción
+E
+ntre los grandes desafíos y oportunidades que ofrece la inteligencia arti-
+ficial (IA) están los aportes de su técnica a la medicina y al cuidado de la 
+vida. Son incontables los beneficios que se pueden aplicar, desde el cono-
+cimiento e investigación del propio cuerpo hasta los elementos exógenos que 
+pueden ofrecer una calidad de vida impensable hasta hace poco tiempo, entre 
+los que se encuentran los robots, que pueden facilitar el movimiento de arti-
+RAMÓN DARÍO VALDIVIA JIMÉNEZ
+54
+PERSONA Y DERECHO / VOL. 88 / 2023/1
+culaciones humanas que carecían de esta facultad. Y, al mismo tiempo que al 
+servicio de la calidad de vida, la inteligencia artificial y la robótica, inevitable-
+mente, colaboran también en el nuevo modo de comprender científica y técni-
+camente no sólo el final de la vida, sino también el modo con el que se percibe 
+el contexto del sufrimiento en la persona humana. Si en el pasado remoto el 
+problema de la muerte acontecía ante el destino y lo definitivo de la ruptura 
+entre la materia y el principio espiritual; en el presente, estas determinaciones 
+han dado paso a las exigencias materiales de la limitación de la corporalidad, 
+que afecta a la tolerancia al dolor y la limitación psicológica para dar, o negar, 
+sentido al sufrimiento. El dolor físico, el sufrimiento espiritual y la concreción 
+de la muerte ¿pueden ser aliviados con esta nueva tecnología médica?
+La imponderable realidad del dolor, del sufrimiento y de la muerte, ha 
+buscado respuestas fundamentalmente a través de códigos religiosos, éticos y, 
+como no, también jurídicos. Esta fue la necesidad de la exigencia del juramen-
+to hipocrático que ha regulado los objetivos de la profesión médica desde la 
+antigua Grecia hasta nuestros días; si bien, lo que parecía inalterable, a medida 
+que los nuevos valores han impregnado la sociedad contemporánea, también 
+han afectado a la comprensión de la enfermedad, el dolor y la muerte, intro-
+duciendo cambios axiológicos en los que la consideración preponderante de la 
+autonomía del paciente en la valoración ética de los tratamientos y sus finali-
+dades se ha impuesto sobre los criterios externos, ya fueran de matriz religiosa, 
+jurídico-ética o incluso médica 1.
+Desde esta perspectiva los promotores de la eutanasia han pretendido 
+incoar la necesidad de su regulación, de modo que, más que una mera despe-
+nalización, el legislador ha tratado de ofrecerla a la sociedad contemporánea 
+como la única respuesta a esa triple «amenaza» que suponen la enfermedad, el 
+sufrimiento y la muerte a nuestra cultura contemporánea, que se halla huera 
+de resortes con los que hacer frente a la inexorabilidad del tiempo y el deterio-
+ro biológico que genera en la condición humana. Pero, lo más significativo de 
+nuestros días es que estas regulaciones de origen parlamentario, formalmente 
+constitucionales de democracias liberales, una vez que se han consensuado 
+1	 En la 68ª Asamblea General de la Asociación Médica Mundial se ha impuesto la consideración 
+de la autonomía del paciente en los tratamientos médicos como uno de los pilares tradicionales 
+de la medicina según el juramento hipocrático, de manera que se incorpora en los mismos tér-
+minos que el de beneficencia, la no maleficencia y la justicia, <http://www.medicosypacientes.
+com/articulo/el-juramento-medico-se-actualiza-e-incorpora-por-primera-vez-la-autonomia-
+del-paciente> [consulta: 08/08/2022].
+EUTANASIA, OBJECIÓN DE CONCIENCIA Y APLICACIONES TECNOLÓGICAS
+PERSONA Y DERECHO / VOL. 88 / 2023/1
+55
+en la sede política oportuna, dejan el peso moral, el control administrativo y 
+la ejecución de esa única respuesta en las manos de los profesionales sanita-
+rios, obviando otras alternativas que la profesión médica ya había implantado, 
+como pueden ser los tratamientos paliativos al dolor y la colaboración multi-
+disciplinar para ofrecer dinamismos espirituales que sostuvieran la imponente 
+fuerza del sufrimiento, ya que la muerte, como tal, ni tan siquiera el transhu-
+manismo ha logrado, hasta el momento, frenarla 2.
+Así lo corrobora la opción de la Ley Orgánica de Regulación de la Eu-
+tanasia 3/2021 de 24 de marzo 3, que opta, como todas las regulaciones de la 
+eutanasia en el Derecho comparado, por un modelo medicalizado en la pres-
+tación de la ayuda para morir (PAM), incluido en la cartera común de servicios 
+del Sistema Nacional de Salud (art. 13.1 LORE), en la que, ante la eficacia del 
+«tratamiento» que genera la muerte del paciente, no controla nadie más que el 
+médico y la Comisión de Garantías y Evaluación aprobada por la Comunidad 
+Autónoma correspondiente, que toma referencia del caso particular exclusiva-
+mente mediante los informes.
+Me sorprende que no esté previsto, ni en la LORE ni en ninguna otra 
+norma reguladora de la eutanasia a nivel mundial, el control judicial o del Mi-
+nisterio Fiscal o alguna otra intervención de los órganos de inspección sanita-
+ria en los procedimientos para ofrecer la PAM, ni tan siquiera en los casos en 
+los que la Comisión hubiera detectado alguna anomalía, cuestión que solven-
+taría la delegación sanitaria pertinente. En todo caso, quedaría una inspección 
+ex post-facto, que carece de sentido para el finado.
+Es decir, la medicalización de la prestación para la ayuda morir tiene su 
+ámbito lógico en las instituciones sanitarias, pero se echa en falta un proce-
+dimiento abreviado o urgente en el que los controles y garantías de la vida 
+2	 Beltrán Aguirre, J. L., «El procedimiento y controles necesarios con el fin de garantizar la 
+observancia de los requisitos objetivos y subjetivos», La eutanasia a debate. Primeras reflexiones 
+sobre la Ley Orgánica de Regulación de la Eutanasia, Marcial Pons, Madrid, 2021, 155-198. El triple 
+filtro de la regulación de la eutanasia para comprobar los requisitos establecidos para obtener 
+la prestación de la ayuda para morir (PAM) lo tienen las figuras del médico responsable (en dos 
+ocasiones), el médico consultor, en segunda instancia, y la resolución de la Comisión de Garan-
+tías y Evaluación, compuesta por una pluralidad de disciplinas, pero en las que intervienen de 
+manera destacada la profesión médica y juristas fundamentalmente. 
+3	 Tras algunos intentos de regular la eutanasia, el resultado sólo devino en la LIV legislatura, el 
+18 de marzo de 2021, el Congreso de los Diputados aprobó esta ley aceptando las enmiendas 
+propuestas por el Senado. En la votación final, el texto obtuvo 198 votos a favor, 142 en contra 
+y 2 abstenciones.
+RAMÓN DARÍO VALDIVIA JIMÉNEZ
+56
+PERSONA Y DERECHO / VOL. 88 / 2023/1
+de las personas pueda estar protegida por quienes constitucionalmente están 
+habilitados para ello. No se comprende cómo, por ejemplo, para el necesario 
+proceso de incapacitación de una persona se requiera este control, y para la 
+muerte, aun cuando fuera requerida por el propio paciente, no exista.
+Los códigos éticos que han regulado la lex artis repudiaron la eutanasia 
+como respuesta a la enfermedad y al sufrimiento, precisamente, porque consi-
+deraban que la muerte era la derrota de la medicina en una batalla épica, en la 
+que el argumento de la compasión, que aceleraba el momento de la muerte, no 
+podía ser alegado ni tan siquiera a solicitud del propio paciente, como refiere 
+el juramento hipocrático: «No daré a nadie medicamento mortal, por mucho 
+que me lo soliciten, ni tomaré iniciativa alguna de este tipo».
+Sin embargo, la federación mundial de las sociedades que propician el 
+derecho a morir propugna que ese juramento hipocrático es perfectamente 
+compatible con el principio de la beneficencia médica porque, con la eutanasia 
+se alivia el dolor 4. En efecto, el argumento del mercy-killing es, junto con el 
+de la autonomía de la voluntad, el que sociológicamente tiene un peso mayor 
+para la regulación e implantación de la eutanasia 5.
+Por eso, la presumible resistencia inicial de la profesión médica a la 
+aplicación de la eutanasia, en los términos que establece la nueva regulación 
+española, tiene un doble camino para ser vencida: o la misma asunción social 
+de esta exigencia, también por la profesión médica, en una sociedad cada vez 
+más inclinada a percibir cualquier tipo de sufrimiento como adversario de la 
+humanidad que, presumo, requerirá como mucho una sola generación médi-
+ca más para que puedan aceptar acríticamente los envites morales que suscita 
+la eutanasia; o la implantación exponencial de las nuevas tecnologías, inteli-
+gencia artificial y/o robótica, que puedan suplantar o sustituir a las exigencias 
+que la ordenación jurídica ha depositado en las manos de los profesionales 
+sanitarios.
+Finalmente, esta aportación quiere afrontar, desde una perspectiva nove-
+dosa, anticipada a los hechos y a la doctrina que ha tratado sobre la regulación 
+de la eutanasia y su problemática ética de la objeción de conciencia, la necesi-
+dad de limitar el uso de la inteligencia artificial al procedimiento para calibrar 
+4	 Torre (de la) Díaz, J., «Eutanasia y suicidio asistido. Razones para pensar», Y de nuevo la 
+eutanasia. Una mirada nacional e internacional, Dykinson, Madrid, 2019, p. 23.
+5	 Wood Mak, Y. y Elwyn, G., «Voices of the terminally ill: uncovering the meaning of desire for 
+euthanasia», Palliative Medicine, 19 (2005), p. 345.
+EUTANASIA, OBJECIÓN DE CONCIENCIA Y APLICACIONES TECNOLÓGICAS
+PERSONA Y DERECHO / VOL. 88 / 2023/1
+57
+y determinar el contexto eutanásico y la posible aplicación de la eutanasia a los 
+pacientes. De hecho, la mera posibilidad de que hablemos de introducir apli-
+caciones tecnológicas a la PAM invita a pensar que, en el proceso deliberativo 
+sobre la vida de una persona, que es de naturaleza moral antes que jurídico, se 
+pueda sustituir la valoración del acto médico por un algoritmo matemático, lo 
+que de momento, como veremos, se está rechazando en la bioética legislativa 
+de matriz europea.
+II. LORE: la deontología médica en cuestión
+La profesión médica, como ha resuelto la LORE, es la responsable de la 
+aplicación del nuevo derecho subjetivo (Preámbulo LORE § I), para recibir la 
+PAM (art. 13 y 14 LORE) 6. Esta decisión legal parece estar en contradicción 
+no sólo con lo que los propios profesionales de la sanidad han auto-establecido 
+en la regulación de su profesión, a través de los Códigos deontológicos, sino 
+también con el propio sentido del Derecho, porque supone un problema aña-
+dido a la tradicional diatriba entre el valor normativo y axiológico del Dere-
+cho, en tanto que al considerar la muerte como un derecho, la convierten en 
+un homicidio legal, lo que implica una quiebra fundamental en la protección 
+del derecho a la vida 7.
+Por eso, antes de entrar en el conflicto propio de la eutanasia, debemos 
+comprender la naturaleza de la tensión entre la ley como fuente del Derecho y 
+la aspiración axiológica de la deontología en la profesión médica. Para centrar 
+el problema, es necesario comprender que la profesión médica ha recibido del 
+Estado el monopolio del ejercicio de la medicina, de modo que, mediante sus 
+compromisarios, elegidos democráticamente entre los miembros de la profe-
+sión, redactaron un Código para ordenar el ejercicio de la profesión médica, 
+a través de preceptos, recomendaciones y consejos de la conducta corporativa 
+(cfr. art. 1 CDM [Código Deontología Médica]), no sólo como algo interno a 
+la profesión sino como respuesta ética a la sociedad 8.
+6	 En definitiva, esta Ley introduce en nuestro ordenamiento jurídico un nuevo derecho individual 
+como es la eutanasia
+7	 Albert Márquez, M. M., «¿La muerte como cosa justa (lo de cada uno)? Reflexiones sobre 
+la eutanasia desde el realismo jurídico de Javier Hervada, Persona y Derecho, 87 (2022), p. 389.
+8	 Consejo General de Colegios Oficiales de Médicos [CGCOM], Código de Deontología 
+Médica, Madrid, 2011.
+RAMÓN DARÍO VALDIVIA JIMÉNEZ
+58
+PERSONA Y DERECHO / VOL. 88 / 2023/1
+Por tanto, el Código de deontología médica, de julio de 2011, es un texto 
+en el que la profesión médica expresa su identidad y la relación con la sociedad 
+a la que quiere servir, pues supone un monopolio vinculado administrativa-
+mente a los recursos y exigencias del Estado, en cuanto que la salud se ha 
+extendido al catálogo de los derechos sociales. La función reguladora de los 
+códigos deontológicos es delegada a los Colegios Profesionales para la regu-
+lación interna del ejercicio de la profesión, que se lleva a cabo sin perjuicio 
+de las funciones de dirección y supervisión que se reservan las instituciones 
+administrativas para asegurar el respeto a los valores constitucionales. Esta 
+regulación deriva, pues del principio de subsidiariedad, que permite una ma-
+yor pericia, competencia, calidad y determinación objetiva de los tratamientos 
+derivados de la experiencia profesional que los que pudieran ser determinados 
+por una ley ordinaria 9. Ahora bien, esta regulación profesional no puede ser 
+indiferente al principio de legalidad vigente en el ordenamiento constitucio-
+nal, por lo que dirimir la constitucionalidad de la LORE es, para los colegios 
+profesionales, el quicio de la argumentación para su no aplicación, más allá de 
+la mera imposición normativista 10. Por eso, en el órgano de comunicación del 
+Consejo General de Colegios Oficiales de Médicos [CGCOM] afirmaba la 
+exoneración del médico 11.
+Así como el Estado ha confiado el monopolio del cuidado de la salud de 
+su población a la profesión médica por su especialidad y tecnicidad, queda 
+claro que también debe respetar que el ethos médico no sólo se deje llevar 
+por el mínimo de la imposición legal, sino por su aspiración a la excelencia 
+del cuidado de la persona humana, más allá incluso de algunas concepciones 
+antropológicas mayoritarias, que pueden producir zonas de conflicto entre lo 
+legal y lo deontológico, entre la perspectiva de un Derecho que se sostenga 
+9	 San Julián Puig, V., «Distanciamiento entre deontología y Derecho médico», Cuadernos de 
+Bioética, 57 (2005), p. 205.
+10	 Martín-Retortillo Baquer, L., «Las exigencias éticas de las profesiones», Seminario sobre 
+deontología profesional, Unión profesional, Madrid, 1995, p. 326.
+11	 Colegio General de Colegios Oficiales de Médicos, «El CGCOM no considera necesa-
+rio la creación de un registro de objetores de conciencia ante la regulación de la eutanasia y el 
+suicidio asistido», Madrid, 2021, <https://www.cgcom.es/notas-de-prensa/el-cgcom-no-consi-
+dera-necesario-la-creacion-de-un-registro-de-objetores-de> [consulta: 07/09/2022]: «Respecto 
+al médico que desee participar en el proceso eutanásico, una vez aprobada la regulación, cabe 
+señalar que estará amparado por las Leyes del Estado y no podrá ser sancionado deontológica-
+mente, salvo que incumpla cualquiera de las condiciones establecidas o realice de forma errónea 
+e incompetente el procedimiento».
+EUTANASIA, OBJECIÓN DE CONCIENCIA Y APLICACIONES TECNOLÓGICAS
+PERSONA Y DERECHO / VOL. 88 / 2023/1
+59
+exclusivamente por las exigencias sociológicas o por la eticidad de un colecti-
+vo profesional que ha recibido la confianza del Estado. Como veremos en el 
+tercer y cuarto párrafo del artículo, este problema puede ser resuelto próxima-
+mente con el uso de los métodos tecnológicos como la inteligencia artificial y 
+la robótica.
+En el Derecho comparado, la función de los códigos deontológicos de-
+pende de si proceden de un sistema de raíz anglosajona o continental. En la 
+disciplina corporativa del área de influencia británica, la sociedad juega un 
+papel preponderante frente al Estado. Este, a través de una ley, delega en un 
+Consejo General o Asociación Médica General para que ejerza de autoridad 
+última, aunque en ocasiones pueda ser acusado por la sociedad como una en-
+tidad demasiado «corporativista». Así, en Estados Unidos, por ejemplo, la 
+Asociación Médica Americana dispone de sus propios consejos judiciales para 
+administrar la disciplina médica. En cambio, en el modelo continental, la in-
+tervención del Estado es más notable pues, aunque los Colegios Médicos ten-
+gan una entidad propia de derecho público, la disciplina debe amoldarse a las 
+leyes aprobadas por el Estado 12.
+En España, la cobertura legal de la deontología en la prestación de los 
+servicios de las diferentes profesiones aparece en la Ley 2/1974 de 13 de fe-
+brero, que monopoliza esta función en los Colegios Profesionales, a quienes le 
+corresponde: «ordenar en el ámbito de su competencia la actividad profesional 
+de los colegiados, velando por la ética y dignidad profesional y por el respeto 
+debido de los derechos de los particulares y ejercer la facultad disciplinaria en 
+el orden profesional y colegial» 13.
+En el contexto de la eutanasia, el Código Deontológico del Consejo Gene-
+ral de Colegios Oficiales de Médicos señala que el incumplimiento de sus normas 
+supone incurrir en falta disciplinaria cuya corrección corresponde al procedi-
+miento establecido en sus Estatutos (art. 2.2). Como desde el juramento hipocrá-
+tico la profesión médica ha condenado el provocar intencionadamente la muerte, 
+también su Código, en el art. 36. 3 ha dispuesto: «El médico nunca provocará 
+intencionadamente la muerte de ningún paciente, ni siquiera en caso de petición 
+expresa por parte de este». Así parece que tenemos un conflicto con la disposi-
+12	 Herranz Rodríguez, G., Comentarios al código de ética y deontología médica, Pamplona, EUNSA, 
+1992, revisada y actualizada en <https://www.unav.edu/web/unidad-de-humanidades-y-etica-
+medica/material-de-bioetica/comentarios-al-codigo-de-etica-y-deontologia-medica/capitu-
+lo-11>, comentario del art. 40.4, § 2 [consulta: 07/09/2022].
+13	 Art. 5. 1 Ley 2/1974 de 13 de febrero.
+RAMÓN DARÍO VALDIVIA JIMÉNEZ
+60
+PERSONA Y DERECHO / VOL. 88 / 2023/1
+ción final segunda de la LORE, que establece: «El médico que actuará ampa-
+rado por las Leyes del Estado no podrá ser sancionado deontológicamente».
+Frente a la simple consideración de las fuentes del Derecho, primaría la 
+norma legal sobre la regulación axiológica o deontológica por parte del colec-
+tivo médico. Sin embargo, la Comisión Central de Deontología Médica del 
+Consejo General de los Colegios Oficiales de Médicos ha perseverado en la 
+consideración negativa de la obligación de la PAM bajo el argumento de que 
+esta no es un acto médico. Sin embargo, esta norma deontológica ni siquiera es 
+unánime, pues la norma 80 del Código deontológico del Colegio Oficial de 
+Médicos de Cataluña, publicado en el BOE en enero de 2022, prefiere priori-
+zar al juramento hipocrático el respeto a la voluntad del paciente, manifestada 
+personal y anticipadamente en un documento oficial 14.
+La doctrina muestra que el conflicto reside en quién puede determinar lo 
+que sea el acto médico, y si la eutanasia responde a este concepto y, si por tal, la 
+definición deviene por precepto legal, o si la deontología de los propios médicos 
+puede tener algo que decir. Como señala Beltrán Aguirre desde el positivismo 
+más nítido: «Vista la cuestión desde la óptica del Derecho, no cabe duda alguna 
+de que por mor de la entrada en vigor de la LORE y del régimen que diseña 
+para la prestación de ayuda para morir, estamos ante un acto médico» 15. En 
+cambio, los propios médicos, en sus organizaciones de representación colegial, 
+se oponen a este concepto, sobre todo, por la percepción de que la administra-
+ción del suicidio asistido o eutanasia no puede ser considerada al mismo nivel 
+que el tratamiento que pretendiera la curación o mejoría del paciente hasta 
+cuando fuera posible, respetando siempre la dignidad en el momento final de la 
+vida, y a pesar incluso de la propia autonomía de la voluntad del paciente, como 
+lo expresó con claridad el Consejo Andaluz de los Colegios de Médicos en su 
+comunicado sobre la eutanasia en abril del año 2022 16.
+14	 El médico debe respetar y atender, en la medida que sea posible, la voluntad del paciente con 
+relación a decisiones respecto al final de la vida, que se pueden reflejar en el documento de 
+voluntades anticipadas, en el plan anticipado de curas o en anotaciones análogas referidas en la 
+historia clínica del paciente. Cuando el estado del enfermo no le permita tomar decisiones, no 
+conste documentalmente cual es su voluntad o haya dudas sobre esta, el médico juntamente con 
+las personas vinculadas tomará las decisiones, teniendo en cuenta aquello que se cree que habría 
+sido el parecer del enfermo en aquel momento.
+15	 Beltrán Aguirre, J. L., «Desencuentro entre la deontología médica y el derecho positivo en 
+torno a la prestación de la ayuda a morir», Derecho y Salud, 32 (2022), p. 8.
+16	 Consejo Andaluz de Colegios Médicos, «Comunicado: ‘La eutanasia no es un acto médi-
+co’», 2022 [consulta: 05/09/2022]
+EUTANASIA, OBJECIÓN DE CONCIENCIA Y APLICACIONES TECNOLÓGICAS
+PERSONA Y DERECHO / VOL. 88 / 2023/1
+61
+Así, aparece el eterno conflicto entre la obediencia a la ley positiva y el 
+valor axiológico de la norma. En torno a este conflicto, parece que el legislador 
+ha querido contentar a la posición menos favorable a la eutanasia ofreciendo 
+un carácter garantista en la LORE frente a quienes estuvieran más propensos a 
+la libre determinación de la voluntad 17, aunque, evidentemente, estas garantías 
+parezcan meras excusas para quienes consideran que la despenalización de la 
+eutanasia no tiene nada que ver con la libre determinación de la voluntad, a 
+que se refiere el art. 10. 1 CE 18.
+II.1.  La profesión médica: de cuidar la vida a promover la muerte, por ley
+En el contexto del cuidado de la salud, que ha sido monopolizada en la 
+profesión médica por la ley, parece haber una tensión generalizada entre un 
+modelo sanitario que funciona con los cánones burocráticos de la adminis-
+tración del Estado y el modelo de la relación personalizada entre médico y 
+paciente. La reciente crisis de la pandemia de Covid’19 ha puesto de relieve 
+la necesidad de inclinar la balanza hacia un modelo interpersonal en el que 
+no sólo está juego la atención al enfermo considerado en su enfermedad, sino 
+en su humanidad, porque el modelo anterior no sólo provocaba el rechazo en 
+los pacientes sino también en los profesionales sanitarios que experimentaban 
+en todas las especialidades una fatiga crónica, o burnout, especialmente en el 
+cuidado de quienes estaban más cercanos a la muerte.
+La profesora Olivares ha distinguido los tres modelos predominantes en 
+la cultura médica: la Patient Centered Care, que busca empoderar al enfermo 
+en las decisiones acerca de su salud, haciéndole corresponsable también de su 
+resultado; la Ética del cuidado, que se centra el propósito en la administración 
+de la salud en la relación médico-paciente con el sentimiento de cuidarlo y la 
+Whole Person Care, que busca el cuidado integral de la persona, incluido su en-
+17	 Peñaranda Ramos, E., «Participación en suicidio, eutanasia, autonomía personal y responsa-
+bilidad de terceros», La eutanasia a debate. Primeras reflexiones sobre la Ley Orgánica de Regulación 
+de la Eutanasia, Marcial Pons, Madrid, 2021, p. 224: «habrá quienes entiendan que la despena-
+lización de la eutanasia es insuficiente, porque se tendría que haber admitido de un modo más 
+general la radical libertad de todos para poner fin a la propia existencia y para contar a tal efecto 
+también con la ayuda de terceras personas».
+18	 Rodríguez Portugués, M., «Eutanasia y libre determinación de la personalidad, Dignidad y 
+vida humana: eutanasia, gestación subrogada y transhumanismo, Thomson Reuters – Aranzadi, 
+Cizur Menor, 2020, p. 252.
+RAMÓN DARÍO VALDIVIA JIMÉNEZ
+62
+PERSONA Y DERECHO / VOL. 88 / 2023/1
+torno relacional y social 19. Sea cual sea la perspectiva desde la cual se atienda, 
+queda claro que la intencionalidad de la profesión médica es la de cuidar, lo 
+que es propio, pues para ello se ha capacitado técnicamente ya que sus actos, 
+exclusivamente, le corresponden a esta finalidad 20. Cualquiera de estos mo-
+delos médicos, está respaldado por el principio constitucional del derecho a 
+la vida, de modo que su protección se garantiza en el Estado Social y Demo-
+crático de Derecho, mediante el Sistema Nacional de Salud. Así, la profesión 
+médica rechaza mayoritariamente la práctica de considerar la eutanasia como 
+«acto médico» puesto que, desde el origen de la profesión se percibe como 
+una perversión del principio médico de beneficencia bajo capa de la compa-
+sión ante el sufrimiento humano 21.
+En cambio, la doctrina jurídica favorable a la regulación y aceptación de 
+la eutanasia trata de sustituir esta protección del derecho constitucional a la 
+vida por la convicción de que este derecho puede convertirse para el enfermo 
+sufriente en un deber-de-vivir 22. Al mismo tiempo que afirman la constitu-
+cionalidad de la eutanasia como un acto médico, dependiente de la oferta del 
+Sistema Nacional de Salud porque, entienden, que los cuidados paliativos y 
+los recursos que defienden los anti-reguladores no agotan las exigencias que 
+la autonomía y libertad de los que sufren en el contexto eutanásico, que no 
+culminan sino con el propio fin de la vida 23.
+19	 Olivares Osorio, P., «Cuidar de otros: retorno a una noción básica para la medicina actual», 
+Cuadernos de bioética, 33 (2022), p. 47.
+20	 Santos, J. A; «Ética jurídica de la vulnerabilidad al final de la vida: ¿entre la compasión y la 
+responsabilidad en el morir?, Persona y Derecho, 87 (2022), p. 422-423. 
+21	 Consejo Andaluz de Colegios Médicos, «Comunicado: ‘La eutanasia no es un acto médi-
+co’», 2022 [consulta: 05/09/2022]
+22	 Cámara Villar, G., «La triada ‘bien constitucional, vida humana / derecho a la vida / inexis-
+tencia de un derecho a la propia muerte’ (acerca de la constitucionalidad de la regulación de la 
+eutanasia en España en perspectiva comparada)», La eutanasia a debate. Primeras reflexiones sobre 
+la Ley Orgánica de Regulación de la Eutanasia, Marcial Pons, Madrid, 2021, p. 36: «de igual ma-
+nera que el derecho a la vida no engendra, por sí, especularmente, un genérico y fundamental 
+«derecho a la muerte» para el individuo titular del mismo, tampoco genera un «deber funda-
+mental» implícito a tener que seguir existiendo a toda costa».
+23	 Moreso J. J., «Dignidad humana: Eutanasia y auxilio ejecutivo al suicidio», La eutanasia a deba-
+te. Primeras reflexiones sobre la Ley Orgánica de Regulación de la Eutanasia, Marcial Pons, Madrid, 
+2021, pp. 82-83; Cámara Villar, G., «La triada ‘bien constitucional, vida humana / derecho 
+a la vida / inexistencia de un derecho a la propia muerte’ (acerca de la constitucionalidad de 
+la regulación de la eutanasia en España en perspectiva comparada)», op. cit., p. 32; Peñaran-
+da Ramos, E., «Participación en suicidio, eutanasia, autonomía personal y responsabilidad de 
+terceros», op. cit., p. 224; Dworkin, R., «El dominio de la vida. Una discusión acerca del aborto, la 
+eutanasia y la libertad individual», Ariel, Barcelona, 1994, p. 248.
+EUTANASIA, OBJECIÓN DE CONCIENCIA Y APLICACIONES TECNOLÓGICAS
+PERSONA Y DERECHO / VOL. 88 / 2023/1
+63
+Las corrientes que promueven el derecho a decidir sobre la propia muerte 
+pretenden avalar sus posiciones ideológicas desde una perspectiva sociológica 
+mediante la difusión de sondeos demoscópicos, que resultan tendencialmente 
+inclinados a la apropiación de esta ideología, tanto en el extranjero como en 
+nuestra nación.
+Resultan reveladores los datos tanto de Oregón (pionero en despenalizar 
+la eutanasia en los Estados Unidos) realizado por la Oregon Public Health Divi-
+sion 24, como el elaborado en España por el CIS (Centro de Investigaciones So-
+ciológicas) en 2009. Este último realizó un cuestionario a la población con 63 
+preguntas acerca de la atención a pacientes con enfermedades terminales en el 
+que incluían tres preguntas acerca de la eutanasia, en la que el sesgo ideológico 
+se advierte porque da por hecho que la eutanasia es considerada como un acto 
+médico, lo que conduce a un resultado favorable para su aceptación social 25.
+Últimamente, en el Barómetro de enero de 2021, el CIS preguntó tam-
+bién acerca de la eutanasia, en concreto a través de tres preguntas sobre si el 
+encuestado estaba en conocimiento de la aprobación de la Ley de regulación 
+de la eutanasia; si estaba de acuerdo o en desacuerdo con la misma y cuál era 
+la razón de la duda acerca de la misma (CIS, 2021, 9). La apreciación positiva 
+sobre el acuerdo con la eutanasia la respondió un 72,3 % de los encuestados, 
+24	 Oregon Public Health Division, «Oregon’s Death with Dignity», Act-2014, <https://www.oregon.
+gov/oha/PH/PROVIDERPARTNERRESOURCES/EVALUATIONRESEARCH/DEATH-
+WITHDIGNITYACT/Documents/year24.pdf>, 15 march 2022.
+25	 Centro de Investigaciones Sociológicas, «Atención a pacientes con enfermedades en fase 
+terminal», <https://www.cis.es/cis/opencm/ES/1_encuestas/estudios/ver.jsp?estudio=9982>, 28 
+mayo 2009 [consulta: 03/09/2022]: «Pregunta 24: Cuando una persona tiene una enfermedad 
+en fase terminal, que le causa grandes sufrimientos y que le causará la muerte en poco tiempo 
+¿cree Ud. que la ley debería permitir que los médicos pudieran poner fin a su vida y a sus su-
+frimientos, si esta persona lo solicita libremente?» La respuesta fue afirmativa con un 63,3 % 
+frente a un no, con toda seguridad, que respondió el 9, 2 %. Con dudas respecto a la respuesta 
+afirmativa fueron del 17,2 % y del 5,3 negativa. n/s – n/c fue del 5%. Y otra pregunta fue: «Y si 
+esta persona lo solicita libremente a sus médicos, ¿cree Ud. que la ley debería permitir que estos 
+le proporcionasen los medios necesarios para que ella misma pudiera terminar con su vida?», La 
+respuesta afirmativa descendió al 49,7 %, la negativa ascendió al 16,2 %, los márgenes de dudas 
+tanto a la respuesta afirmativa como negativa ascendieron también, mientras que las respuestas 
+del n/s – n/c redujeron su apreciación considerablemente. Y, la tercera cuestión fue: «En el caso 
+de una persona mayor de 18 años, con una enfermedad degenerativa incurable, que le va a in-
+capacitar mental y físicamente en un futuro próximo, ¿piensa Ud. que, si lo ha solicitado, la ley 
+debería autorizar a los médicos a terminar con su vida cuando ella lo decida?» La respuesta fue 
+afirmativa con absoluta certeza en un 49,4 % frente a una negativa del 14,3 %. Las respuestas 
+dudosas tanto afirmativas como negativas ascendieron a un 28,7 %, mientras que los n/s – n/c 
+fueron del 7,6 %.
+RAMÓN DARÍO VALDIVIA JIMÉNEZ
+64
+PERSONA Y DERECHO / VOL. 88 / 2023/1
+mientras que los contrarios a la eutanasia estaban sólo el 15,1 %. De manera 
+que parece no existir dudas del aprecio, y el apremio, con el que el legislador 
+ha querido dar razón a las exigencias sociológicas para responder legalmente 
+a la eutanasia. Sin embargo, esa respuesta tan entusiasta parece no concordar 
+con quienes, por ley, deberían llevarla a cabo.
+La objeción a esta medicalización de la eutanasia, consecuencia de la mo-
+nopolización de la medicina, ha sido puesta de manifiesto casi exclusivamente 
+por la profesión médica, como vimos expresada tanto en su Código deontoló-
+gico, como en otros sondeos a profesionales sanitarios. Si la demoscopia avala 
+la exigencia para legalizarla, también debería avalar la objeción de conciencia 
+que ratificaba el sondeo elaborado por el CIS (año 2002) acerca de la euta-
+nasia, cuya consideración negativa es mucho más alta en la profesión médica 
+que en la población general 26. Más recientemente se hicieron encuestas en 
+el Colegio de Médicos de Bizcaia en el año 2018, que afirmaba la necesidad 
+de regulación de la eutanasia 27: 86,39 % y el suicidio asistido en torno a un 
+71,21 %. También se preguntó sobre la intención de solicitar la objeción de 
+conciencia, que obtuvo un 28,27 % de resultados afirmativos y un 60,48% 
+26	 Centro de Investigaciones Sociológicas, «Actitudes y opiniones de los médicos ante la eu-
+tanasia», <https://www.cis.es/cis/export/sites/default/-Archivos/Marginales/2440_2459/2451/
+Es2451mar.pdf>, abril-mayo 2002 [consulta: 03/09/2022]: «Pregunta 9. Un paciente que sufre 
+una enfermedad incurable y dolorosa y está cerca de la muerte, le pide al médico que acelere su 
+muerte. En su opinión, ¿la ley debería...? La respuesta más contundente es Ninguna de las dos 
+cosas [Que el médico proporcionase una dosis letal de fármaco al paciente para que él mismo 
+pueda acabar con su vida: 21,5 %/ Que el propio médico administrase al paciente una dosis letal 
+de fármaco: 21,6 %], con un 50,7 %». Otra pregunta fue: «Pregunta 11. Un paciente que sufre 
+una enfermedad incurable no terminal que le causa un dolor crónico y graves padecimientos 
+que limitan, en gran medida, su calidad de vida le pide al médico que le ayude a morir. En su 
+opinión, ¿la ley debería permitir...? La respuesta más contundente, aún, fue: Ninguna de las dos 
+cosas [Que el médico proporcionase una dosis letal de fármaco al paciente para que él mismo 
+pueda acabar con ella: 17,3 % / Que el propio médico administrase al paciente una dosis letal 
+de fármaco: 9,1 %] con un 67%». También es relevante la pregunta acerca de la administración 
+de la eutanasia a los niños (de tres años especifica), que alcanza el 77,9 %. En el caso de que la 
+solicitud de la eutanasia proviniera de los familiares, los médicos descartan que la ley pudiera 
+permitir la eutanasia en un 70,3 5. Por último, la pregunta 19 es directa: «¿Cree Ud. que debe 
+cambiarse la ley para permitir a los enfermos pedir y recibir el suicidio asistido por un médico 
+y/o la eutanasia activa?» Las respuestas fueron: «Si, pero sólo para los enfermos terminales que 
+conserven todas sus facultades mentales: 41,5 % / Si, para pacientes que conserven todas sus 
+facultades mentales, independientemente de que su enfermedad sea terminal o crónica (grave o 
+irreversible): 18,4 %. / No: 31,4 % y n/s-n/c: 8,7 %». 
+27	 Colegio De Médicos de Bizkaia, «Eutanasia y suicidio médicamente asistido», 2018, <https://
+www.cmb.eus/encuesta-eutanasia-y-suicidio-medicamente-asistido-del-cmb-eutanasia>
+EUTANASIA, OBJECIÓN DE CONCIENCIA Y APLICACIONES TECNOLÓGICAS
+PERSONA Y DERECHO / VOL. 88 / 2023/1
+65
+negativo. En el Colegio de Médicos de Tarragona se hizo una encuesta en 
+julio de 2019 28, que refería que el 86% de los médicos encuestados preferían 
+mayoritariamente una regulación legal de la eutanasia con un 86 %, si bien el 
+número de los que decían que rechazaban participar en prácticas eutanásicas 
+era del 91 %. El profesor Justo Aznar, a la luz de estos datos y de otras encues-
+tas en el ámbito europeo advertía que, a pesar de que los profesionales médicos 
+reclamasen mayoritariamente una regulación sobre la eutanasia y el suicidio 
+médicamente asistido, no existía propiamente una demanda de legalización 
+de estas prácticas 29. Así pues, aunque mediante el método sociológico de la 
+demoscopia pudiera admitirse la oportunidad de la eutanasia, el peso del dere-
+cho fundamental de la vida debe priorizarse a la más que probable afectación 
+sesgada de estas encuestas.
+Finalmente, en representación de una parte de la sociedad, también al-
+gunos partidos políticos del arco parlamentario (PP y VOX) se opusieron a la 
+actual regulación de la eutanasia, y plantearon un recurso de inconstituciona-
+lidad en el Tribunal Constitucional, que ha sido admitido a trámite 30. De todas 
+formas, resulta llamativa la debilidad de la objeción social a esta Ley Orgánica, 
+que ofrece la muerte entre los tratamientos aceptados por el Sistema Nacio-
+nal de Salud, pues ella misma se presenta como una respuesta legislativa tras 
+haber contado con el consenso casi absoluto de la sociedad, salvo el de la pro-
+fesión médica y de quienes, a juicio del legislador, pretenden imponer el deber 
+constitucional de tutela de la vida «a toda costa y en contra de la voluntad del 
+titular de derecho a la vida» (Preámbulo, 1).
+Entre las razones de esta aceptación parecería estar el hecho de que el 
+Ejecutivo optó para su tramitación parlamentaria por la forma de proposición 
+de Ley, y no como proyecto de Ley, para obviar las consultas necesarias a insti-
+tuciones independientes como el Consejo de Estado, el Consejo General del 
+Poder Judicial, el Comité de Bioética y otros órganos cuya obligatoriedad no 
+es exigible 31. A mayor abundamiento, la paradójica tramitación parlamentaria 
+28	 Collegi Oficial Metges Tarragona, «Estudi sobre la percepció de l’eutanàsia entre el col-
+lectiu de Metges. Informe de resultats», <https://comt.cat/es/resultados-de-la-encuesta-realiza-
+da-sobre-la-percepcion-de-la-eutanasia-entre-el-colectivo-de-medicos/>, 2019 (17 julio 2019). 
+29	 Aznar, J., «Opinion of physician and the general population on the legalization of euthanasia 
+and assisted suicide», Cuadernos de Bioética, 32 (2021), p. 34.
+30	 Tribunal Constitucional, Nota informativa 81/2021.
+31	 Gutiérrez Vicen, C., «Sinopsis art.  88 CE», <https://app.congreso.es/consti/constitucion/
+indice/sinopsis/sinopsis.jsp?art=88&tipo=2>, 2005 [consulta: 31/08/2022]
+RAMÓN DARÍO VALDIVIA JIMÉNEZ
+66
+PERSONA Y DERECHO / VOL. 88 / 2023/1
+se realizó en un periodo de limitación de libertades públicas a consecuencia 
+de la COVID’19, que también fue declarada inconstitucional 32. Consecuen-
+temente, si la muerte está silenciada sociológicamente, parece razonable que 
+una legislación favorable a la aplicación de una ayuda a morir, también lo sea, 
+y así fue.
+En este contexto, una de las opiniones que el Ejecutivo trató de evitar 
+para la tramitación de la Ley Orgánica fue la del Comité de Bioética 33, insti-
+tución pública que se regula por la Ley de Investigación biomédica 14/2007 
+de 3 de julio 34. A pesar de no ser consultado, este Comité emitió un informe 
+tanto para criticar el procedimiento parlamentario adoptado por el Ejecuti-
+vo 35, como por la materia que se sustanciaba. Destacaba que la eutanasia no 
+podría ser considerada como un acto médico, a pesar de lo que estableciera la 
+propia ley porque: «Se trata de un cambio de comportamiento médico acep-
+table que una vez legalizado será enseñado como adecuado y será practicado 
+como necesario» 36. Señalaba que, en todo caso, podría ser considerado un acto 
+sanitario por desarrollarse en el ámbito natural de la monopolización de la 
+medicina, pero que, como tal, al no estar dirigido a procurar la salud según el 
+principio de necesidad, no podría ser considerado como un acto terapéutico 
+pues, al tener la intención de eliminar el sufrimiento, el resultado era la termi-
+nar con la vida del paciente, con lo cual la necesidad está excluida 37.
+32	 Tribunal Constitucional, «Sentencia 168/2021» <https://www.boe.es/diario_boe/txt.
+php?id=BOE-A-2021-18371>
+33	 Comité de Bioética de España, «Declaración sobre la tramitación parlamentaria de la re-
+forma legal de la eutanasia y auxilio al suicidio» de 4 de marzo de 2020, <http://assets.comi-
+tedebioetica.es/files/documentacion/Declaracion%20CBE%20tramitacion%20reforma%20
+eutanasia%20auxilio%20al%20suicidio.pdf>.
+34	 <https://www.boe.es/buscar/act.php?id=BOE-A-2007-12945#tvii>, título VII.
+35	 Comité de Bioética de España, Informe sobre el final de la vida y la atención en el proceso de 
+morir, en el marco del debate sobre la regulación de la eutanasia: propuestas para la reflexión y la delibe-
+ración, <http://assets.comitedebioetica.es/files/documentacion/Informe%20CBE%20final%20
+vida%20y%20la%20atencion%20en%20el%20proceso%20de%20morir.pdf>, 6 de octubre 
+2020 [consulta: 04/09/2022]. Probablemente, a juicio del legislador no convenía atender a los 
+informes de dicho Comité por razones meramente ideológicas, a pesar de que el art. 80.4 de 
+esta ley que regula su funcionamiento requiera que los miembros actúen con independencia de 
+las autoridades que los propusieron, por lo que se demuestra que más que una exigencia social, 
+la nueva LORE era un proyecto de transformación cultural. Los miembros de dicho comité se 
+renovaron en su totalidad el 26 de julio de 2022 excepto la persona que emitió un voto particu-
+lar a este informe: <https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-12658> [consulta: 
+10/08/2022].
+36	 Ibid., p. 37.
+37	 Ibid., p. 19.
+EUTANASIA, OBJECIÓN DE CONCIENCIA Y APLICACIONES TECNOLÓGICAS
+PERSONA Y DERECHO / VOL. 88 / 2023/1
+67
+Así, el problema que se vislumbra con la nueva regulación de la eutanasia 
+y el suicidio asistido es la desbordante capacidad de los poderes del Estado, es-
+pecialmente del Ejecutivo, para erigirse como artífices políticos de una lex artis 
+que le precede cronológica y materialmente. Estos poderes han delegado en la 
+profesión médica la salud de la población, luego a pesar de todo, para los pro-
+blemas médicos, los poderes se deben a esta, rigiéndose por su propio código 
+deontológico, y es esta la que debe poner los límites éticos a su práctica. De lo 
+contrario, puede generarse la sospecha de la sumisión de la profesión médica 
+a los postulados utilitaristas (o posibilistas) que sostengan la política, con el 
+resultado de que puede desarticular todo el entramado ético que secularmente 
+ha sostenido la profesión médica, tal y como sostiene el Comité de Bioética 
+de España 38, y algunos autores contrarios a la prestación de ayuda a morir 39.
+Estos escrúpulos se hubieran vencido si hubiera habido un diálogo y con-
+senso con los profesionales sanitarios, aunque esto nos parece del todo invero-
+símil dada la orientación decididamente favorable a la eutanasia de esos repre-
+sentantes políticos, ya que, personalmente, no obvio en absoluto que exista la 
+necesidad de una regulación en materia sanitaria. Sin embargo, el problema es 
+la falta de legitimidad cuando los poderes públicos tratan de definir la identi-
+dad social de la sociedad a golpe de legislación. No obstante, la misma LORE 
+trata de superar esas reservas éticas ofreciendo en su articulado la posibilidad 
+de la objeción de conciencia médica (art. 16 LORE), como no podría ser de 
+otra forma en un Estado Social y Democrático de Derecho que respeta el 
+principios de una verdad moral del objetor, como reconoce la Constitución 
+al insertar este derecho en el contenido de la libertad de conciencia y religio-
+sa (art. 16.1 CE y en extenso en la objeción de conciencia al servicio militar 
+en art. 30 CE). La doctrina constitucional lo ha reconocido (STC 53/1985 y 
+STC 145/ 2015) y también ha reflexionado sobre el derecho de objeción de 
+conciencia en materia sanitaria 40.
+38	 Ibid., p. 44: «el riesgo de que una política de eutanasia apoyada por el Estado ya sea como 
+excepción, ya sea como derecho e, incluso, como prestación pública acabe en una expresión de 
+puro utilitarismo no es descabellada».
+39	 Zurriaráin, R. G., «La ley Orgánica 3/2021 sobre regulación de la eutanasia: ¿Una ley deshu-
+manizadora?», Cuadernos de Bioética, 32 (2021), p. 264: «la muerte provocada no puede ser un 
+atajo que nos permita ahorrar recursos humanos y económicos imprescindibles en el cuidado y 
+acompañamiento integral de los enfermos [...] hemos sustituido todo ese debate sobre prestacio-
+nes asistenciales por la opción de pedir la muerte».
+40	 Gascón Abellán, M. F., «Objeción de conciencia sanitaria», Autonomía personal y decisiones mé-
+dicas. Cuestiones éticas y jurídicas, Thomson Reuters – Civitas, Cizur Menor, 2010, pp. 149-154.
+RAMÓN DARÍO VALDIVIA JIMÉNEZ
+68
+PERSONA Y DERECHO / VOL. 88 / 2023/1
+II.2.  La objeción de conciencia en la LORE
+Como hemos visto, el legislador pudo apoyarse en la exigencia de la so-
+ciedad para introducir este nuevo «derecho subjetivo», como remite en el 
+preámbulo 41. Sin embargo, la profesión médica parece verse «agredida» en 
+su dignidad ética para realizar aquello que la conciencia individual y, especial-
+mente profesional, le impide, tal y como subrayan el Código deontológico y la 
+mayoría de los colegios profesionales.
+Este «desacuerdo» entre la sociedad y la profesión médica resulta, a mi 
+juicio, uno de los precedentes epistemológicos sobre los que se asienta la crí-
+tica más importante a la LORE porque, mientras que la sociedad que legitima 
+la ley está profundamente ligada al subjetivismo cultural 42, la profesión mé-
+dica se debe radicalmente al cuidado médico objetivo de la persona a la que 
+sirve y atiende, incluso más allá de la autonomía de la voluntad (subjetiva) del 
+paciente. Por eso, el legislador trató solventar esta falla siguiendo el modelo 
+de objeción de conciencia para el médico, tipificado en la legislación belga 43, 
+al pensar la necesidad de establecer garantías en la LORE para los médicos, 
+individualmente considerados, que se viesen afectados en conciencia frente 
+a la pretensión de que pudieran solicitarle la eutanasia 44. En este sentido, el 
+legislador ha seguido la estela de la objeción de conciencia en materia sanitaria 
+regulada en la Ley Orgánica 2/2010 de 3 de marzo de salud reproductiva, en 
+la que el art. 95.2 dispone el reconocimiento de la objeción de conciencia a los 
+profesionales sanitarios para.
+Pero el modelo español ha negado totalmente la posibilidad de una ob-
+jeción de conciencia fuera del estricto ámbito de la conciencia individual. Los 
+centros sanitarios, pues, no podrán ejercer corporativamente esta posibilidad 
+porque el legislador ha considerado que los sujetos colectivos no tienen «con-
+ciencia». Como el ámbito de este problema excede lo que quiero expresar en 
+41	 (Preámbulo LORE § I): «es, precisamente, obligación del legislador atender a las demandas y 
+valores de la sociedad, preservando y respetando sus derechos y adecuando para ello las normas 
+que ordenan y organizan nuestra convivencia».
+42	 Cabrera Caro, L., «Un nuevo derecho llamado eutanasia. Revisión crítica al amparo de la 
+concepción clásica del derecho», Persona y Derecho, 87 (2022), p. 408.
+43	 Ruiz Miguel, A., «Objeción de conciencia y eutanasia», La eutanasia a debate. Primeras reflexio-
+nes sobre la Ley Orgánica de Regulación de la Eutanasia, Marcial Pons, Madrid, 2021, p. 263.
+44	 (Preámbulo LORE § I): «Al mismo tiempo, mediante la posibilidad de objeción de conciencia, 
+se garantiza la seguridad jurídica y el respeto a la libertad de conciencia del personal sanitario 
+llamado a colaborar en el acto de ayuda médica para morir».
+EUTANASIA, OBJECIÓN DE CONCIENCIA Y APLICACIONES TECNOLÓGICAS
+PERSONA Y DERECHO / VOL. 88 / 2023/1
+69
+mi colaboración, apunto solo algunas consecuencias de este aspecto, quedando 
+al margen otras tantas matizaciones como pueden hacerse a esta Ley Orgánica.
+El Comité de Bioética de España publicó un documento sobre la obje-
+ción de conciencia y eutanasia en el que contradijo este argumento alegando 
+que la ley 52/2002 de 26 de diciembre había reconocido la cualidad de la con-
+ciencia colectiva a los damnificados en la Guerra Civil y la dictadura, como 
+expresión de plena ciudadanía democrática y prolongación de la libertad ideo-
+lógica. También alega el Comité de Bioética las sentencias del Tribunal Cons-
+titucional en las que reconoce un tipo de conciencia colectiva, como el caso de 
+los derechos del pueblo judío (STC 241/1991 del caso Violeta Friedman), y 
+más concretamente, en el caso del respeto al ideario en los centros educativos 
+concertados (STC 106/1996) que, puede ser asimilable a las instituciones sa-
+nitarias dependientes con ideario contrario a la PAM, propugnada e impuesta 
+por la LORE. Resulta llamativo que el único voto particular al informe del 
+Comité de Bioética, emitido por D.ª Leonor Ruíz Sicilia, contrario al sentido 
+de un derecho a la objeción de conciencia institucional, permita la posibilidad 
+de que las instituciones puedan establecer en los contratos de conciertos con 
+la Administración pública en los que se «dispense» de dicha prestación, mas 
+no por la mera objeción de conciencia a la ley, sino al contrato realizado pre-
+viamente 45.
+La inadmisibilidad de la objeción de conciencia corporativa, refiere la 
+LORE, presume la sospecha del legislador a que se pueda provocar una frus-
+tración del derecho individual a solicitar la PAM, cuantitativa como cualita-
+tivamente, tal y como reconoce el sector de la doctrina que propicia la euta-
+nasia. Cuantitativamente, por la alta implantación de instituciones sanitarias 
+de ideario católico, lo puede provocar un: «severo impacto en la tutela de una 
+muerte digna» 46. Además, porque esa objeción «institucional» podría afectar 
+la solicitud de las personas ingresadas en estos centros imponiendo inconve-
+nientes a la prestación de la ayuda a morir y provocando traslados forzosos. 
+Esta objeción institucional también podría afectar cualitativamente la solici-
+tud de la PAM, provocando la desobediencia civil, pues el deber objetado (esta 
+45	 Comité de Bioética de España, «Informe del Comité de Bioética de España sobre la objeción 
+de conciencia en relación con la prestación de ayuda para morir de la Ley Orgánica reguladora 
+de la Eutanasia», p.  38, <http://assets.comitedebioetica.es/files/documentacion/Informe%20
+CBE%20sobre%20la%20Objecion%20de%20Conciencia.pdf>, 21 de julio de 2021 [consulta: 
+06/09/2022].
+46	 Ruiz Miguel, A., «Objeción de conciencia y eutanasia», op. cit., p. 271.
+RAMÓN DARÍO VALDIVIA JIMÉNEZ
+70
+PERSONA Y DERECHO / VOL. 88 / 2023/1
+prestación), requiere ser protegido. De esta manera, el legislador reconoce 
+que prima su intención, que coincide con «estabilidad, serenidad o comodi-
+dad» del paciente que solicita la PAM, a la conciencia de quien deba llevar 
+a cabo la prestación de ofrecer la muerte, quien concibe estatutariamente la 
+medicina para vencer a la muerte, y para ser su instrumento.
+En línea con esta doctrina, pero apuntando más a las consecuencias po-
+líticas que éticas, el Comité de Bioética de Andalucía, en su dictamen de abril 
+de 2021, optó por la distinción entre la objeción de conciencia y el «activismo 
+ideológico». La primera tiene un carácter individual, que preserva la libertad 
+de conciencia, mientras que ese activismo, simplemente supone una herra-
+mienta política para transformar las instituciones 47. En el mismo sentido, pero 
+más asépticamente política, es la afirmación de Martín Sánchez, quien alega la 
+decisión de la Comisión Europea de Derechos Humanos 11921/86 que decla-
+raba que, mientras que la libertad religiosa y la ideológica pueden ser ejercidas 
+por una persona jurídica, la de conciencia es un derecho individual, no colecti-
+vo 48. Una importante matización al respecto de los autores del libro Eutanasia 
+y objeción de conciencia llama la atención a que la protección de la objeción de 
+conciencia institucional no puede equipararse a la individual en todo caso, sino 
+que debe servir para reforzar la individual, no para sustituirla, lo que provoca-
+ría problemas de conciencia a quienes formaran parte de dicha institución 49.
+En definitiva, lo que el legislador busca al conceder la garantía del dere-
+cho a la objeción de conciencia individual, y no colectiva, es la protección del 
+mismo derecho subjetivo que concede a la PAM, protagonizada por un médico 
+o personal sanitario, porque, intuye que este derecho subjetivo que crea ex-
+novo, puede generar las suficientes resistencias como para que no se cubran las 
+solicitudes que la supuesta demanda social requiere.
+El temor a una «huelga de brazos caídos» provocaría el descrédito de la 
+propia regulación y crearía un peligro de insubordinación al orden constitu-
+cional, en tanto no se pronuncie el Alto Tribunal acerca de los recursos plan-
+teados de inconstitucionalidad. Aunque, siguiendo la tendencia demoscópica, 
+47	 Comité de Bioética de Andalucía, «Informe de Objeción de conciencia y eutanasia», p. 11 
+<https://www.bioetica-andalucia.es/wp-content/uploads/2021/07/InformeOC_CBAF.pdf>, 
+abril 2021 [consulta: 06/09/2022].
+48	 Martín Sánchez, I., «Implicaciones para los profesionales sanitarios de la Ley Orgánica 
+3/2021, de 24 de marzo de regulación de la Eutanasia, Derecho y Salud, 31 (2022), p. 30.
+49	 Navarro Valls, R.; Martínez Torrón, J. y Valero Estarellas, M. J., «Eutanasia y Objeción 
+de conciencia», Palabra, Madrid, 2022, p. 129.
+EUTANASIA, OBJECIÓN DE CONCIENCIA Y APLICACIONES TECNOLÓGICAS
+PERSONA Y DERECHO / VOL. 88 / 2023/1
+71
+no creo que se produzca una objeción de conciencia tan severa como para que 
+esta prestación quede vacante en todo el Sistema Nacional de Salud, quedán-
+dose en un mero deseo lo que se ha estipulado como una realidad.
+No obstante, me parece que, en los términos en los que se trata el proce-
+so de solicitud de la PAM, la objeción de conciencia médica no sólo incomoda 
+en el proceso final de la aplicación o ejecución, sino también en el momento 
+deliberativo en el que el paciente, que está en un contexto eutanásico y per-
+sistentemente, solicita la PAM. El problema reside en que, en este periodo 
+crucial para ayudar a convivir con el final de la vida, el art. 6. 2 LORE refiere 
+que el documento de la solicitud ratificada por el paciente, también «debe fir-
+marse en presencia de un profesional que lo rubricará», es decir, que la firma 
+personalísima del facultativo se debe imprimir en un expediente administrati-
+vo que conduce directamente a la muerte del paciente. Es cierto que ha sido 
+solicitada por el propio paciente, pero el médico debe enfrentarse éticamente 
+a que su convicción personal se haya visto «traicionada» en la firma de un 
+documento. Por eso, aunque el Comité de Bioética asuma que tanto el médico 
+responsable como el médico consultor no deben hacer objeción de conciencia 
+hasta el momento de la ejecución 50 veo razonable la opinión de la otra parte de 
+la doctrina que lo niega aún a riesgo de que así, ningún solicitante de la PAM 
+pueda encontrar facultativos que le ayuden a transitar hacia el fin de su vida 
+sin la necesidad de la PAM 51.
+Como refiere el Comité de Bioética, la complejidad de definir o concre-
+tar los parámetros de ese contexto eutanásico personalizado puede sobrepasar 
+las competencias profesionales, o las condiciones personales del facultativo, 
+pues este análisis requiere conjugar valores puramente biológicos con los psi-
+cológicos y también sociales 52. Entonces, me parece que, no por negligencia 
+médica, ni por deseo de cumplir con el deber de atender el acompañamiento 
+50	 Comité de Bioética de España, «Informe del Comité de Bioética de España sobre la objeción 
+de conciencia en relación con la prestación de la ayuda para morir en la Ley Orgánica reguladora 
+de la Eutanasia», op. cit., p. 16.
+51	 Ruiz Miguel, A., «Objeción de conciencia y eutanasia», op. cit., p. 265: «los médicos que obje-
+ten en conciencia participar en cualquier momento del proceso, cuya objeción constará previa-
+mente en el Registro, deben quedar exentos de las funciones de recibir la petición de eutanasia, 
+deliberar con el paciente y evaluar la petición que la LORE encomienda a los médicos respon-
+sables y consultores».
+52	 Comité de Bioética de España, «Informe del Comité de Bioética de España sobre la objeción 
+de conciencia en relación con la prestación de la ayuda para morir en la Ley Orgánica reguladora 
+de la Eutanasia», op. cit., p. 15.
+RAMÓN DARÍO VALDIVIA JIMÉNEZ
+72
+PERSONA Y DERECHO / VOL. 88 / 2023/1
+y asesoría al paciente, ni mucho menos por «oposición política», el médico 
+puede y debe trasladar el expediente a otro responsable. Sin embargo, esos 
+traslados son los que precisamente quiere evitar el legislador, para que sea la 
+voluntad autónoma del paciente, de que alguien acabe con su vida, y que, por 
+tanto, se imponga la libre determinación de que un médico acabe con su vida 
+en aras del derecho a morir «con dignidad».
+A resultas de este conflicto, intuyo que la Inteligencia Artificial ya formu-
+la algoritmos para identificar estos conflictos personales, biológicos, sociales y, 
+por qué no decirlo, también económicos, que pueden resolverse sin tanto di-
+lema profesional. El problema, empero, persiste y se agrava, porque entonces, 
+ya no son sólo los factores biométricos, sino que, al introducir este elemento 
+sociológico, la cuestión parece complicarse más profundamente.
+III. Eutanasia e inteligencia artificial
+Aunque no hayamos tratado inicialmente este problema, entre las pri-
+meras labores que la LORE exige a la profesión médica está la valoración, en 
+primer lugar, por el médico responsable de las condiciones del llamado con-
+texto eutanásico del paciente que solicita la eutanasia. El contexto eutanásico 
+es un concepto definido en la LORE como: «una situación de padecimiento 
+grave, crónico e imposibilitante, o de enfermedad grave e incurable, padecien-
+do un sufrimiento insoportable que no puede ser aliviado en condiciones que 
+considere aceptables» 53. Una labor que, como señala el Comité de Bioética, es 
+muy compleja debido a las circunstancias subjetivas, además de los parámetros 
+objetivos, que pueden ser registrados biométricamente 54.
+Para ayudar a esa valoración, y en principio sin sustituir el criterio hu-
+mano del médico responsable, la Inteligencia Artificial puede desarrollar al-
+goritmos que puedan combinar no sólo los datos objetivos de la salud del pa-
+ciente, sino también los subjetivos, e interrelacionarlos para determinar tanto 
+los umbrales del sufrimiento humano tolerables, como los contextos sociales 
+en los que se desarrolla la vida del paciente, tales como los datos familiares, 
+53	 Preámbulo LORE § 1.
+54	 Comité de Bioética de España, «Informe del Comité de Bioética de España sobre la objeción 
+de conciencia en relación con la prestación de la ayuda para morir en la Ley Orgánica reguladora 
+de la Eutanasia», p. 15.
+EUTANASIA, OBJECIÓN DE CONCIENCIA Y APLICACIONES TECNOLÓGICAS
+PERSONA Y DERECHO / VOL. 88 / 2023/1
+73
+el alejamiento (físico) de los hijos, y, por supuesto ¿por qué dudarlo?, el coste 
+sanitario de los tratamientos que se aplican a los enfermos. Sin duda alguna, 
+la Inteligencia Artificial puede elaborar este algoritmo. De hecho, desde una 
+perspectiva remota en la salud de los pacientes, antes de llegar a ese contexto 
+eutanásico, un reciente estudio del CSIC y algunas universidades americanas 
+ha propuesto el uso de indicadores médicos para determinar la esperanza de 
+vida de las personas a partir de los 65 años 55.
+En efecto, el acopio de los datos obtenidos en las memorias médicas de los 
+pacientes presupone un acervo documental que un sistema informático o de IA 
+puede archivar, estructurar, organizar y utilizar con una capacidad muy supe-
+rior a la humana 56, de modo que la máquina o algoritmo puede hacerse cargo 
+de la masa arbitraria de los datos del historial desarrollando una mayor eficacia 
+computacional gracias al aprendizaje automático 57. Así, la hipótesis de que, en 
+la relación entre el médico y la máquina que gestione los datos de la vida del 
+paciente, la máquina pudiera diagnosticar con mayor precisión y pudiera suge-
+rir el tratamiento más adecuado, ya lo había previsto a principios de los años 
+setenta del siglo pasado el pionero de la nefrología contemporánea 58. De esta 
+manera, el problema de desconfianza que genera la eutanasia para la profesión 
+médica se podría trasladar hacia una aplicación matemática que resolviera el 
+problema de conciencia del médico y de la confianza en su profesión.
+Los problemas que percibo son tres: a) cómo puede ser usada éticamente 
+esta IA en el ámbito médico para determinar si una persona es susceptible no de 
+recibir la PAM 59, es decir, si es posible que, dado que el criterio de discernimien-
+to médico plantea problemas éticos para el profesional (médico responsable), el 
+algoritmo pueda, y hasta dónde, definir con mayor seguridad el estado del con-
+texto eutanásico del paciente, para luego, pasar su valoración a la Comisión de 
+55	 <http://www.medicosypacientes.com/articulo/cientificos-proponen-el-uso-de-indicadores-
+medicos-para-determinar-la-esperanza-de-vida-de> [consulta: 18/08/2022]
+56	 Pérez Luño, A. E., «La inteligencia artificial en tiempo de pandemia», Inteligencia artificial y 
+Derecho. El jurista ante los retos de la era digital, Thomson Reuters – Aranzadi, Cizur Menor, 2021, 
+p. 41.
+57	 Garrido Martín, J., «Inteligencia artificial y cultura tecnológica. Hacia una técnica fragmen-
+tada», «Inteligencia artificial y Derecho. El jurista ante los retos de la era digital», Thomson Reuters 
+– Aranzadi, Cizur Menor, 2021, p. 156.
+58	 Schwartz, W, B., «Medicine and Computer: The promise and Problems of Change», New 
+England Journal of Medicine, 283 (1970), p. 1259.
+59	 Savini Nicci, M. y Vetrugno, G.,«Intelligenza artificiale e responsabilità nel settore sanita-
+rio», Intelligenza artificiale. Il diritto, i diritti, l’etica, Giuffrè, Milano, 2020, p. 607.
+RAMÓN DARÍO VALDIVIA JIMÉNEZ
+74
+PERSONA Y DERECHO / VOL. 88 / 2023/1
+Garantías; b) el siguiente problema está conectado procedimentalmente con el 
+anterior según la LORE, pues me pregunto si esta Comisión puede llegar a con-
+ceder un valor superior al resultado que establezca el algoritmo, o deberá confiar 
+más en la capacidad valorativa del médico responsable; y c) si, en un futuro no 
+contemplado por la LORE, el algoritmo puede llegar a sustituir, en este ámbito 
+tan delicado, no sólo a la figura del médico responsable, sino a la propia persona 
+solicitante de la PAM, imponiéndole la eutanasia por motivos utilitaristas.
+Planteo entonces, cómo una máquina u algoritmo puede convertirse en 
+un agente normativo, cuya decisión puede tener un impacto ético 60 tan explícito 
+que pueda no sólo decidir qué personas pueden recibir o no la PAM, sino que 
+pueda condicionar, con el poder de sus datos empíricos, incluso, el informe 
+de la Comisión de Garantía, generando así una máquina con una «moralidad 
+artificial» 61 que llegue a condicionar la vida de los enfermos que han solicitado 
+la eutanasia. Sin embargo, espero, como Asimov, descartar la hipótesis de que 
+pueda llegar el día en que la máquina esté tan perfeccionada que no se necesite 
+siquiera el consentimiento del paciente 62.
+El complejo problema ético para determinar el contexto eutanásico de un 
+paciente mediante la IA en una persona que ha solicitado la eutanasia supon-
+dría hacer un uso tecnológico, y por tanto más preciso, de los datos impresos 
+en el historial médico, lo que supondría un plus de seguridad respecto al trata-
+miento humano. Sin embargo, la persona enferma, en cierta manera, también 
+debe ser considerada independiente de su propio historial médico, que debe 
+ser cuidado no sólo por exigencia del secreto profesional, sino porque revela 
+la intimidad de la persona en la que están en juego valores como las relaciones 
+familiares, económica y sociales, por ejemplo, vive sola, o bien factores econó-
+micos, que se subrayan simplemente en el lugar de la vivienda habitual.
+Caso de implantarse este modelo, tendrá que someterse al ecosistema de 
+confianza propio del marco regulador de la IA en Europa que protege los de-
+rechos fundamentales 63, especialmente en lo relativo a la protección de datos, 
+60	 Anderson, M., Machine Ethics, Cambridge University Press, New York, 2011, p. 7.
+61	 Ferreira, A. E., «Antropogenia, principios normativos y ética artificial», Inteligencia Artificial y 
+Derecho. El jurista ante los retos de la era digital, Thomson Reuters – Aranzadi, Cizur Menor, 2021, 
+p. 103.
+62	 Asimov, I., «Runaround – A short story», Astounding Science Fiction (march, 29, 1942).
+63	 Comisión Europea (COM, 2020, 65 final), Libro blanco sobre la inteligencia artificial. Un enfoque 
+orientado a la excelencia y a la confianza, Bruselas, 2020, <https://ec.europa.eu/info/sites/default/
+files/commission-white-paper-artificial-intelligence-feb2020_es.pdf> 2020. 
+EUTANASIA, OBJECIÓN DE CONCIENCIA Y APLICACIONES TECNOLÓGICAS
+PERSONA Y DERECHO / VOL. 88 / 2023/1
+75
+y, por ende, en esos datos tan complejos que pueden determinar el contexto 
+eutanásico. No obstante esta precisa regulación no deja de tener algunos obs-
+táculos 64, como los riesgos imprevistos que puedan surgir en la incorporación 
+y elaboración de los datos en un mismo procesador, la incertidumbre en la 
+imputación de responsabilidades médicas o administrativas, y por supuesto, 
+el más grave de todos a mi juicio, la introducción de determinados sesgos al-
+gorítmicos que, consciente o inconscientemente, pueden definir un resultado 
+con apariencia objetiva, pero que también pueden llevar implícitos factores de 
+exclusión y/o discriminación 65.
+En esta hipótesis, la sustitución del algoritmo por la valoración del médi-
+co responsable, a fuera de una mayor precisión en la elaboración de los datos y 
+falta de arbitrariedad, gracias a la ausencia de sesgos discriminatorios 66, plan-
+tea un subsiguiente problema: ¿qué hacer con el proceso deliberativo entre 
+el médico responsable y la persona solicitante, si es mucho más efectivo el 
+algoritmo? ¿podría ese proceso deliberativo llevarse a cabo por sistemas de IA 
+como Siri o Alexa preparados para ello? Y, una vez concluido el plazo para el 
+proceso deliberativo, ¿quién debería firmar el documento de comunicación 
+dirigido a la Comisión de Garantías?
+En sustancia, la pregunta central es ¿quién o qué es ese algoritmo? ¿quién 
+es su responsable? Como puede deducirse, una tecnología de este calibre, que 
+utilice una tecnología de tipo predictivo que conduce nada menos que a la 
+prestación de la ayuda a morir, debe entenderse como de alto riesgo, por lo 
+que se requieren las garantías establecidas en el marco de la Unión Euro-
+pea 67, entre los que destaco: la necesidad de la supervisión humana constante 
+(n.º 22); que la IA sea un instrumento, no un sustituto de los profesionales 
+sanitarios (n.º 240); que se impida a las compañías de seguros y análogas el 
+acceso a la información almacenada (n.º 242), y, también, la necesidad de que 
+64	 Moral Soriano, L., «Modelos de gobernanza global de la inteligencia artificial», Inteligencia 
+Artificial y Derecho. El jurista ante los retos de la era digital, Thomson Reuters – Aranzadi, Cizur 
+Menor, 2021, p. 243.
+65	 Belloso, N., «La problemática de los sesgos algorítmicos (con especial referencia a los de 
+género). ¿Hacia un Derecho a la protección contra los sesgos?», Inteligencia artificial y Filosofía 
+del Derecho, Laborum, Murcia, 2022, p. 45.
+66	 Llano Alonso, F. H., Homo Excelsior. Los límites ético-jurídicos del transhumanismo, Tirant lo 
+Blanch, Valencia, 2018, p. 133.
+67	 Parlamento Europeo, «Resolución del 3 de mayo de 2022 sobre la inteligencia artificial en la 
+era digital» (2020/2266 [INI]), <https://www.europarl.europa.eu/doceo/document/TA-9-2022-
+0140_ES.html> 2020. 
+RAMÓN DARÍO VALDIVIA JIMÉNEZ
+76
+PERSONA Y DERECHO / VOL. 88 / 2023/1
+la Comisión que promueva la investigación sobre esos sesgos a los que me he 
+referido (n.º 246).
+De esta manera, parece que la respuesta a estas preguntas, desde la Unión 
+Europea (no así en los marcos regulatorios de Estados Unidos o China) es con-
+clusiva, pues, en cualquier caso la labor del médico responsable y de la Comi-
+sión de Garantías deberá ser imprescindible porque no podrá ser sustituida por 
+ninguna aplicación de IA, lo que facilita su incardinación en un sistema propio 
+de garantías en el Estado de Derecho ante los riesgos y los sesgos que pueden 
+generarse en una regulación más marcada por los principios utilitaristas 68.
+Sin embargo, no podemos descartar que, como la esperanza de vida se 
+ha prolongado y la calidad de vida también (LORE, preámbulo § 1), puedan 
+ser en un sombrío futuro, las mismas administraciones públicas, aquellas que 
+debieran regular ese sistema de valoración del contexto eutanásico, las que 
+lleguen a introducir los sesgos necesarios para que el resultado fuera favorable 
+a la aplicación de la PAM, sin la debida diligencia de respeto al Derecho a la 
+vida de la persona vulnerable 69.
+IV. Aplicación de eutanasia por robótica
+Como advertimos, la comunidad ético-médica está dividida por el recur-
+so a la objeción de conciencia en todo el proceso deliberativo con el paciente, 
+protagonizado por los médicos responsables, consultores, equipos sanitarios y 
+la Comisión de Garantías hasta la aplicación, propiamente dicha, de la PAM. 
+Así, por ejemplo, difieren el informe posibilista del Comité de Bioética de Es-
+paña, que aconseja el deber moral del médico responsable al acompañamiento 
+al paciente en el momento de deliberación 70 y, por otro lado, la Asociación 
+68	 Wisner Glusko, D. C., «Breves reflexiones sobre la importancia del Estado de Derecho en el 
+desarrollo del marco legal sobre los sistemas de Inteligencia artificial en la Unión Europea», In-
+teligencia Artificial y Derecho. El jurista ante los retos de la era digital, Thomson Reuters – Aranzadi, 
+Cizur Menor, 2022, p. 544.
+69	 Iturmendi Morales, G., «Ética de las nuevas tecnologías», Derecho de los riesgos tecnológicos, 
+Eolas, León, 2021, p. 90: «es probable que según avance el desarrollo tecnológico de la IA, aún 
+surjan nuevos escenarios de riesgos escalofriantes que atenten a los principios éticos de la IA en 
+detrimento de los valores de respeto a la dignidad humana, libertad, democracia, igualdad, no 
+discriminación, Estado de Derecho y respeto de los derechos humanos».
+70	 Comité de Bioética de España, «Informe del Comité de Bioética de España sobre la objeción 
+de conciencia en relación con la prestación de la ayuda para morir en la Ley Orgánica reguladora 
+de la Eutanasia», op. cit., p. 15.
+EUTANASIA, OBJECIÓN DE CONCIENCIA Y APLICACIONES TECNOLÓGICAS
+PERSONA Y DERECHO / VOL. 88 / 2023/1
+77
+Española de Bioética y Ética Médica (AEBI) insiste en la necesidad de no 
+colaborar en ninguno de los procesos de la PAM, y formalizar la objeción de 
+conciencia a la ley por cualquier profesional sanitario 71.
+Ante estas dudas éticas, y a pesar de las garantías en el ámbito europeo 
+¿no sería posible la delegación en un robot que, con apariencia de médico 
+solventara, con el procesador de datos de IA, todo ese proceso deliberativo? 
+Si la misma LORE trata, no sólo de regular, sino de facilitar el proceso de 
+la ayuda a morir basada en la misma autonomía de la voluntad del paciente 
+que ha decidido terminar sus días, aunque la ley quiera mostrar garantías, ¿no 
+bastaría, acaso, un robot que reprodujera la acción del profesional médico y le 
+descargara toda objeción de conciencia al médico trasladándola simplemente 
+a un algoritmo? Pero, en ese caso, ¿no podría devenir la intervención robótica 
+en un problema de manipulación de esa autonomía?
+La profesora Rosalie Waelen, en el Instituto Ratheneau, destaca que es 
+posible que el robot o la IA introduzca elementos que llama de «manipulación 
+negligente», que en otros sectores doctrinales llaman también sesgos. Esta ma-
+nipulación o tratamiento de datos sesgados, en el caso de la eutanasia, preten-
+dería influir sobre la libertad de elección del paciente gracias a la asimetría del 
+conocimiento que tuviera el robot extraído del historial médico. Sobre estos 
+datos, se puede forzar al paciente (y/o familiares) a aceptar unos datos o una 
+decisión que, por él mismo, sin esa manipulación, nunca hubiera aceptado 72.
+En el uso de la IA o de un robot que formulara todo el proceso de la 
+PAM, resultaría muy fácil la hipótesis de este tipo de manipulación negligente, 
+¿por qué? La misma Wealen ofrece una respuesta cuando afirma que ante las 
+decisiones complejas, la robótica programada con la IA ofrece una respuesta 
+sencilla, hasta el punto de que puede eliminar la deliberación personal gracias 
+a la confianza que genera la eficacia de los datos proporcionados.
+En efecto, frente a la medicina tradicional, si el Sistema Nacional de Sa-
+lud introdujera la deliberación por medio de la robótica en beneficio de esa 
+eficacia médica, también cabe la amenaza de que junto a los datos de la salud 
+de la persona (contexto eutanásico), se cruzara también un análisis con los 
+71	 A.E.B.I. (Asociación Española de Bioética y Ética Médica); «ante la entrada en vigor de la Ley 
+Orgánica de regulación de la eutanasia en España», Cuadernos de Bioética, 32 (2021), pp. 365-
+366.
+72	 Waelen, R., «AI and manipulation: the ethical question», Rathenau Instituut, <https://www.
+rathenau.nl/en/digital-governance/ai-and-manipulation-ethical-questions>, 8 april 2022 [con-
+sulta: 06/09/2022].
+RAMÓN DARÍO VALDIVIA JIMÉNEZ
+78
+PERSONA Y DERECHO / VOL. 88 / 2023/1
+datos del coste de la vida, de los tratamientos, de la previsible esperanza de 
+vida, de las exigencias vitales de los acompañantes, o del tipo de deterioro que 
+conduciría la prolongación de la vida. De modo que al mismo tiempo que, 
+efectivamente, la robótica pudiera analizar la compleja decisión de la evalua-
+ción clínica, también pudiera servir para abrumar al paciente para que aceptara 
+definitivamente la eutanasia.
+Pero no se trata solo de la eficacia de los números que puede arrojar el 
+informe elaborado por el robot, sino que también, en ese momento tan tras-
+cendental para la vida de una persona, incluso si ella deseara terminar con 
+su vida, será necesario articularla según establece los índices de calidad de la 
+Unión Europea, que también requiere la presencia de una persona, tal y como 
+se advierte en el informe Human rights in the robot age del Instituto Ratheneau, 
+en el que se destaca el potencial de un nuevo «derecho humano» definido 
+como el derecho a un contacto humano digno, especialmente en el cuidado 
+de los enfermos y personas mayores, pues el contacto con los robots no puede 
+compensar la falta de contacto humano, y más en las circunstancias del llama-
+do contexto eutanásico, alegando que el cuidado de las personas es una carac-
+terística clave de la cultura humana, puesto que reemplazar el factor humano 
+con los robots podría deshumanizar la práctica del cuidado 73.
+Así pues, ante la imposibilidad ética para delegar en ese algoritmo, o en 
+la robótica programada convenientemente para la deliberación en el contexto 
+eutanásico, mi pregunta se dirige entonces a la hipótesis de que fuera un sis-
+tema robótico el que, en el caso de que la objeción de conciencia fuera uná-
+nime en el centro del Sistema Nacional de Salud, ejecutara prácticamente la 
+eutanasia. ¿Cabría la posibilidad ética y jurídica de que la ejecución de la PAM 
+pudiera ser llevada a cabo por un robot, lo que no se contempla en la LORE? 
+Y, subsiguientemente, ¿Sería posible la mercantilización de un producto robó-
+tico, que solventara la necesidad de recurrir al Sistema Nacional de Salud, sin 
+tener que iniciar todo el proceso deliberativo y de garantías?
+En primer lugar, habría que destacar la complejidad para ofrecer una 
+definición jurídicamente cualificada de los robots ya que una de sus caracterís-
+ticas es la capacidad de sus productores para escaparse a la normativa, a pesar 
+de que grupos de investigación multidisciplinares y trasnacionales pretendan 
+73	 Van Est, R.; Gerritsen, J. y Kool, L., «Human Rights in the robot age. Challenges arising 
+from the robotics, artificial intelligence, and virtual and augmented reality», Rathenau Instituut, 
+The Hague, 2017, pp. 44-45.
+EUTANASIA, OBJECIÓN DE CONCIENCIA Y APLICACIONES TECNOLÓGICAS
+PERSONA Y DERECHO / VOL. 88 / 2023/1
+79
+regularlo como Robolaw, de modo que este ámbito sigue ofreciendo una vi-
+sión proyectiva o futurista en el que la realidad robótica parece estar cómoda, 
+sin el intervencionismo regulatorio pertinente, luego, cuánto más, cuando la 
+mayoría de los productos en el mercado proceden de países que prescinden 
+de la pretensión regulatoria en torno a la defensa de valores como la dignidad 
+humana o la salud que tiene, por ejemplo, la Unión Europea 74.
+No obstante, a pesar su indeterminación, hay quien apunta algunas carac-
+terísticas o patrones sobre lo que podemos definir la realidad robótica como 
+un objeto capaz de interactuar por sí mismo gracias a capacidades imitativas 
+de los humanos 75. Ahora bien, al menos por ahora, esas «capacidades» sen-
+sitivas, procesadoras y actuadoras no son absolutamente independientes del 
+software creado por el hombre, por lo que el problema de la autoconciencia 
+no lo planteo aún, pero sí es factible la posibilidad de que, en la programa-
+ción del producto robótico pudieran introducirse elementos, sean sesgos o 
+manipulación negligente, para realizar actos ilícitos y eludir la responsabilidad 
+para imputárselas al robot 76, entre los cuales ilícitos estaría el que un robot 
+pudiera aplicar la PAM ajeno al procedimiento reglado por la LORE, como 
+si se implantase comercialmente un proyecto de robot como la fake news de 
+SeppuKuma 77, un robot que, supuestamente, fue creado por ingenieros de la 
+Japan Society for Dying with Dignity y la Orient Industry Company, para ejecutar 
+la PAM sin ninguna referencia a regulación establecida.
+V. Conclusiones
+Sobre la profesión médica recae el monopolio del cuidado de la salud 
+de las personas del Estado a través del Sistema Nacional de Salud (público y 
+privado). Una responsabilidad que procede de su capacitación técnica, pero 
+74	 Llano Alonso, F. H., Homo Excelsior. Los límites ético-jurídicos del transhumanismo, op. cit., p. 139.
+75	 Barrio Andrés, M., «Aspectos jurídicos de la robótica: hacia un derecho de los robots o Lex ro-
+bótica», Derecho de los riesgos tecnológicos, Eolas, León, 2021, p. 33: «un objeto mecánico que capta el 
+exterior, que lo percibe, y a su vez, actúa positivamente en mundo [...] bajo el paradigma de ‘sentir-
+pensar-actuar’ [...] dispositivos fabricados por el hombre con tres componentes seminales: a) sensores 
+que vigilan el entorno y detectan cambios en él, b) procesadores o inteligencia artificial que deciden 
+cómo responder y c) actuadores que operan sobre el entorno de manera que reflejen las decisiones».
+76	 Moravec, H., Mind Children: The future of Robot and Human Intelligence, Harvard University 
+Press, Cambridge, 1988, pp. 48-49.
+77	 La noticia y desmentido en: https://www.snopes.com/fact-check/seppukuma/; también otros 
+intentos en: <http://luispedraza.es/2008/03/23/eutanasia-robotica/> [consulta: 23/03/2008].
+RAMÓN DARÍO VALDIVIA JIMÉNEZ
+80
+PERSONA Y DERECHO / VOL. 88 / 2023/1
+también humana, dado que esta profesión no sólo exige una serie de cono-
+cimientos que pudieran estar concentrados en la compleja ecuación que re-
+lacione la historia médico-clínica del paciente, el vademécum y la destreza 
+quirúrgica. La pandemia que apenas hemos superado lo ha demostrado. La 
+profesión médica tiene un plus sobre esa incógnita que pudiera derivarse de la 
+ecuación, que se llama humanidad. Y en el centro de esa cualidad diferencial 
+está su propia conciencia que, a pesar de lo que pueda determinar la preten-
+sión del monopolio de la salud, exige emerger como condición de su calidad 
+de médico.
+Las condiciones sociales del ejercicio de la profesión médica han variado 
+sustancialmente en los últimos años: capacidad de resistencia al dolor, sole-
+dad, movilidad humana, envejecimiento poblacional, prestación de las pen-
+siones, etc. He mostrado cómo, sociológicamente, la población exige para sí 
+un nivel de calidad humana que no lo otorga la propia naturaleza humana. 
+Por eso aparece, también en los tratamientos médicos, niveles de sufrimien-
+to que superan la capacidad del hombre de resistirlo, a pesar de los avances 
+científicos. Surge, entonces, desde quienes promueven la eutanasia, la pre-
+tensión de legitimar el derecho a decidir la propia muerte como un proyecto 
+sostenido por una mayoría social, que intentan demostrar demoscópicamen-
+te, con la que reclaman el derecho subjetivo a la eutanasia al que la LORE 
+quiere responder.
+Sin embargo, a pesar de que la mayoría social pudiera ser favorable a este 
+«nuevo derecho», que se explica antropológicamente por la ausencia del sen-
+tido del sufrimiento y un cierto pacto de silencio sobre la realidad de la muerte 
+en esta sociedad inmanentista, la profesión médica se resiste mayoritariamente 
+a su aplicación porque consideran que la exigencia social sostenida por valores 
+como la autonomía individual o la compasión ante el sufrimiento no concuer-
+dan con la especificidad de su lex artis, surgiendo así, la necesidad de reclamar 
+el derecho constitucional de la objeción de conciencia.
+En los procesos que describe la LORE para la prestación de la ayuda 
+a morir (deliberación, análisis, trato con el paciente y ejecución del proce-
+dimiento) inevitablemente se deben poner en juego no sólo las capacidades 
+técnicas de la profesión médica: vademécum y pericia quirúrgica, sino también 
+la propia humanidad del médico y del personal sanitario que lo acompaña. Por 
+eso, no puede ser sustituido por un algoritmo capaz de resolver esa compleja 
+ecuación en la que está en juego ni más ni menos que el derecho constitucional 
+más importante: la vida del hombre.
+EUTANASIA, OBJECIÓN DE CONCIENCIA Y APLICACIONES TECNOLÓGICAS
+PERSONA Y DERECHO / VOL. 88 / 2023/1
+81
+La tecnificación de los procedimientos médicos puede resolver proble-
+mas muy complejos con los algoritmos que conjuguen más de un ámbito de 
+conocimiento (médicos, estadísticos, económicos, etc.). La tentación del mo-
+nopolio del sistema nacional de salud puede ser la de sustituir, como en otros 
+ámbitos de la vida social y económica, la pericia humana por la capacidad 
+tecnológica más precisa y rápida con el objeto de responder a las exigencias 
+sociales y la resistencia de la profesión médica.
+Sin embargo, a mi juicio, la capacidad de resolución de conflictos de las 
+aplicaciones tecnológicas no puede solventar las garantías necesarias para que 
+se pueda llevar a cabo la prestación de la ayuda para morir. En primer lugar, 
+los algoritmos, creados por ingenieros computacionales no están legitimados 
+para resolver un conflicto humano, pues este «servicio» no depende de las 
+exigencias matemáticas, sino de la humanidad que es propia de la profesión 
+médica. Sería considerado como un intrusismo profesional. En segundo lugar, 
+en la prestación sanitaria cada vez se está exigiendo con mayor insistencia la 
+cualidad humana de la profesión médica, por lo que introducir la esperanza 
+de una PAM aplicada por procesos tecnificados, no sólo alteraría la delicada 
+relación médico paciente que está ya mermada por la legalidad de la eutanasia, 
+sino que desconfiguraría a la misma profesión médica, desde los principios de 
+su formación hasta la conciencia social de la misma profesión que, por cierto, 
+la LORE niega.
+Mucho más delicada sería aún, la incorporación de robots quirúrgicos 
+que pudieran ser diseñados para aplicar la eutanasia, sin necesidad alguna de 
+referencia humana, sólo la del origen del mismo producto robótico. Destaco 
+principalmente el peligro de la manipulación de estos productos, que lejos del 
+criterio prudencial de la profesión médica que se basa en los principios éticos 
+de beneficencia, no maleficencia, además de los invocados por quienes favore-
+cen la eutanasia de la autonomía, e incluso de la justicia.
+Finalmente, aunque la hipótesis de solventar la objeción de conciencia 
+de la profesión médica para la aplicación de la eutanasia por medio de las apli-
+caciones tecnológicas esté deslegitimada actualmente por la opción ética de 
+la Unión Europea, la educación de la profesión médica y las presiones sobre 
+los estados de opinión fácilmente manipulables, harán de estos instrumentos 
+tecnológicos verdaderos protagonistas en el Sistema de Salud. Observo con 
+preocupación que el plus de humanidad de la profesión médica puede rendirse 
+ante una técnica, que no lo dudo, está regida por un utilitarismo que cercene 
+la primacía de lo humano sobre la economía.
+RAMÓN DARÍO VALDIVIA JIMÉNEZ
+82
+PERSONA Y DERECHO / VOL. 88 / 2023/1
+VI. Referencias bibliográficas
+AEBI (Asociación Española de Bioética y Ética Médica), «Ante la entrada en vigor 
+de la Ley Orgánica de regulación de la eutanasia en España», Cuadernos de 
+Bioética, 32 (2021), 365-366.
+Albert Márquez, M. M., «¿La muerte como cosa justa (lo de cada uno)? Reflexio-
+nes sobre la eutanasia desde el realismo jurídico de Javier Hervada», Persona y 
+Derecho, 87 (2022), 377-393.
+Anderson, M., Machine Ethics, Cambridge University Press, New York, 2011.
+Asimov, I., «Runaround – A short story», Astounding Science Fiction (march, 29, 
+1942).
+Aznar, J., «Opinion of physician and the general population on the legalization of 
+euthanasia and assisted suicide», Cuadernos de Bioética, 32 (2021), 23-36.
+Barrio Andrés, M., «Aspectos jurídicos de la robótica: hacia un derecho de los 
+robots o Lex robótica», Derecho de los riesgos tecnológicos, Eolas, León, 2021, 
+23-58.
+Belloso, N., «La problemática de los sesgos algorítmicos (con especial referencia 
+a los de género). ¿Hacia un Derecho a la protección contra los sesgos?», Inteli-
+gencia artificial y Filosofía del Derecho, Laborum, Murcia, 2022, 45-78.
+Beltrán Aguirre, J. L., «Desencuentro entre la deontología médica y el derecho 
+positivo en torno a la prestación de la ayuda a morir», Derecho y Salud, 32 
+(2022), 6-11.
+Beltrán Aguirre, J. L., «El procedimiento y controles necesarios con el fin de 
+garantizar la observancia de los requisitos objetivos y subjetivos», La eutanasia 
+a debate. Primeras reflexiones sobre la Ley Orgánica de Regulación de la Eutanasia, 
+Marcial Pons, Madrid, 2021, 155-198.
+Cabrera Caro, L., «Un nuevo derecho llamado eutanasia. Revisión crítica al ampa-
+ro de la concepción clásica del derecho», Persona y Derecho, 87 (2022), 395-415.
+Cámara Villar, G., «La triada ‘bien constitucional, vida humana / derecho a la vida 
+/ inexistencia de un derecho a la propia muerte’ (acerca de la constitucionali-
+dad de la regulación de la eutanasia en España en perspectiva comparada)», La 
+eutanasia a debate. Primeras reflexiones sobre la Ley Orgánica de Regulación de la 
+Eutanasia, Marcial Pons, Madrid, 2021, 25-74.
+Centro Investigaciones Sociológicas, «Actitudes y opiniones de los médi-
+cos ante la eutanasia», <https://www.cis.es/cis/export/sites/default/-Archivos/
+Marginales/2440_2459/2451/Es2451mar.pdf>, abril-mayo 2002 [consulta: 
+03/09/2022].
+Centro Investigaciones Sociológicas, «Atención a pacientes con enfermeda-
+des en fase terminal», <https://www.cis.es/cis/opencm/ES/1_encuestas/estu-
+dios/ver.jsp?estudio=9982>, 28 mayo 2009 [consulta: 03/09/2022].
+EUTANASIA, OBJECIÓN DE CONCIENCIA Y APLICACIONES TECNOLÓGICAS
+PERSONA Y DERECHO / VOL. 88 / 2023/1
+83
+Centro Investigaciones Sociológicas, «Barómetro enero 2021», <https://
+www.cis.es/cis/opencm/ES/1_encuestas/estudios/ver.jsp?estudio=14543>, 7 ene-
+ro 2021 [consulta: 07/09/2022].
+Colegio de Médicos de Bizkaia, «Eutanasia y suicidio médicamente asistido», 
+2018, <https://www.cmb.eus/encuesta-eutanasia-y-suicidio-medicamente-asisti-
+do-del-cmb-eutanasia>.
+Col-Legi Oficial Metges Tarragona, «Estudi sobre la percepció de l’eutanàsia 
+entre el col-lectiu de Metges. Informe de resultats», 2019, <https://comt.cat/
+es/resultados-de-la-encuesta-realizada-sobre-la-percepcion-de-la-eutanasia-
+entre-el-colectivo-de-medicos/>.
+Colegio General de Colegios Oficiales de Médicos, «El CGCOM no con-
+sidera necesario la creación de un registro de objetores de conciencia ante la 
+regulación de la eutanasia y el suicidio asistido», Madrid, 2021, <https://www.
+cgcom.es/notas-de-prensa/el-cgcom-no-considera-necesario-la-creacion-de-
+un-registro-de-objetores-de> [consulta: 07/09/2022].
+Comisión Europea, Libro blanco sobre la inteligencia artificial. Un enfoque orientado 
+a la excelencia y a la confianza, Bruselas, 2020, <https://ec.europa.eu/info/sites/
+default/files/commission-white-paper-artificial-intelligence-feb2020_es.pdf>
+Comité de Bioética de Andalucía, «Informe de Objeción de conciencia y eu-
+tanasia», 
+<https://www.bioetica-andalucia.es/wp-content/uploads/2021/07/
+InformeOC_CBAF.pdf>, abril 2021 [consulta: 06/09/2022].
+Comité de Bioética de España, «Declaración sobre la tramitación parlamentaria 
+de la reforma legal de la eutanasia y auxilio al suicidio» de 4 de marzo de 2020, 
+<http://assets.comitedebioetica.es/files/documentacion/Declaracion%20
+CBE%20tramitacion%20reforma%20eutanasia%20auxilio%20al%20suici-
+dio.pdf>
+Comité de Bioética de España, «Informe sobre el final de la vida y la atención en 
+el proceso de morir, en el marco del debate sobre la regulación de la eutanasia: 
+propuestas para la reflexión y la deliberación», 6 de octubre 2020, <http://as-
+sets.comitedebioetica.es/files/documentacion/Informe%20CBE%20final%20
+vida%20y%20la%20atencion%20en%20el%20proceso%20de%20morir.
+pdf> [consulta: 04/09/2022].
+Comité de Bioética de España, «Informe del Comité de Bioética de España sobre 
+la objeción de conciencia en relación con la prestación de ayuda para morir de 
+la Ley Orgánica reguladora de la Eutanasia», <http://assets.comitedebioetica.
+es/files/documentacion/Informe%20CBE%20sobre%20la%20Objecion%20
+de%20Conciencia.pdf>, 21 de julio de 2021 [consulta: 06/09/2022].
+Consejo Andaluz de Colegios Médicos, «Comunicado: ‘La eutanasia no es un 
+acto médico’», 7 abril 2022, <https://cacm.es/2022/04/07/la-eutanasia-no-es-
+un-acto-medico/> [consulta: 05/09/2022].
+RAMÓN DARÍO VALDIVIA JIMÉNEZ
+84
+PERSONA Y DERECHO / VOL. 88 / 2023/1
+Consejo General de Colegios Oficiales de Médicos [CGCOM], Código de 
+Deontología Médica, Madrid, 2011.
+Dworkin, R., El dominio de la vida. Una discusión acerca del aborto, la eutanasia y la 
+libertad individual, Ariel, Barcelona, 1994.
+Ferreira, A. E., «Antropogenia, principios normativos y ética artificial», Inteligencia 
+Artificial y Derecho. El jurista ante los retos de la era digital, Thomson Reuters – 
+Aranzadi, Cizur Menor, 2021, 91-112.
+Garrido Martín, J., «Inteligencia artificial y cultura tecnológica. Hacia una técnica 
+fragmentada», «Inteligencia artificial y Derecho. El jurista ante los retos de la era 
+digital», Thomson Reuters – Aranzadi, Cizur Menor, 2021, p. 153-167.
+Gascón Abellán, M. F., «Objeción de conciencia sanitaria», Autonomía personal y 
+decisiones médicas. Cuestiones éticas y jurídicas, Thomson Reuters – Civitas, Cizur 
+Menor, 2010, 143-162.
+Gutiérrez Vicen, C., «Sinopsis art.  88 CE», <https://app.congreso.es/consti/
+constitucion/indice/sinopsis/sinopsis.jsp?art=88&tipo=2>, 
+2005 
+[consulta: 
+31/08/2022].
+Herranz Rodríguez, G., Comentarios al código de ética y deontología médica, Pam-
+plona, EUNSA, 1992, revisada y actualizada en <https://www.unav.edu/web/
+unidad-de-humanidades-y-etica-medica/material-de-bioetica/comentarios-al-
+codigo-de-etica-y-deontologia-medica/capitulo-11>, comentario del art. 40.4, 
+§ 2 [consulta: 07/09/2022].
+Iturmendi Morales, G., «Ética de las nuevas tecnologías», Derecho de los riesgos 
+tecnológicos, Eolas, León, 2021, 61-91.
+Llano Alonso, F. H., Homo Excelsior. Los límites ético-jurídicos del transhumanismo, 
+Tirant lo Blanch, Valencia, 2018.
+Martín-Retortillo Baquer, L., «Las exigencias éticas de las profesiones», Semi-
+nario sobre deontología profesional, Unión profesional, Madrid, 1995.
+Martín Sánchez, I., «Implicaciones para los profesionales sanitarios de la Ley Or-
+gánica 3/2021, de 24 de marzo de regulación de la Eutanasia, Derecho y Salud, 
+31 (2022), 12-38.
+Moral Soriano, L., «Modelos de gobernanza global de la inteligencia artificial», 
+Inteligencia Artificial y Derecho. El jurista ante los retos de la era digital, Thomson 
+Reuters – Aranzadi, Cizur Menor, 2021, 235-258.
+Moravec, H., Mind Children: The future of Robot and Human Intelligence, Harvard 
+University Press, Cambridge, 1988.
+Moreso J. J., «Dignidad humana: Eutanasia y auxilio ejecutivo al suicidio», La euta-
+nasia a debate. Primeras reflexiones sobre la Ley Orgánica de Regulación de la Euta-
+nasia, Marcial Pons, Madrid, 2021, 75-91.
+Navarro Valls, R.; Martínez Torrón, J. y Valero Estarellas, M. J., Eutanasia 
+y Objeción de conciencia, Palabra, Madrid, 2022.
+EUTANASIA, OBJECIÓN DE CONCIENCIA Y APLICACIONES TECNOLÓGICAS
+PERSONA Y DERECHO / VOL. 88 / 2023/1
+85
+Olivares Osorio, P., «Cuidar de otros: retorno a una noción básica para la medici-
+na actual», Cuadernos de bioética, 33 (2022), 41-53.
+Oregon Public Health Division, «Oregon’s Death with Dignity», Act-2014, 
+<https://www.oregon.gov/oha/PH/PROVIDERPARTNERRESOURCES/
+EVALUATIONRESEARCH/DEATHWITHDIGNITYACT/Pages/ar-in-
+dex.aspx>.
+Organización Médica Colegial, <http://www.medicosypacientes.com/articulo/
+el-juramento-medico-se-actualiza-e-incorpora-por-primera-vez-la-autono-
+mia-del-paciente> [consulta: 08/08/2022].
+Parlamento Europeo, «Resolución del 3 de mayo de 2022 sobre la inteligencia 
+artificial en la era digital» (2020/2266 (INI)), <https://www.europarl.europa.
+eu/doceo/document/TA-9-2022-0140_ES.html>
+Peñaranda Ramos, E., «Participación en suicidio, eutanasia, autonomía personal 
+y responsabilidad de terceros», La eutanasia a debate. Primeras reflexiones sobre 
+la Ley Orgánica de Regulación de la Eutanasia, Marcial Pons, Madrid, 2021, 199-
+242.
+Pérez Luño, A. E., «La inteligencia artificial en tiempo de pandemia», Inteligencia 
+artificial y Derecho. El jurista ante los retos de la era digital, Thomson Reuters – 
+Aranzadi, Cizur Menor, 2021, 33-50.
+Rodríguez Portugués, M., «Eutanasia y libre determinación de la personalidad», 
+Dignidad y vida humana: eutanasia, gestación subrogada y transhumanismo, Thom-
+son Reuters – Aranzadi, Cizur Menor, 2020, 231-258.
+Ruiz Miguel, A., «Objeción de conciencia y eutanasia», La eutanasia a debate. Pri-
+meras reflexiones sobre la Ley Orgánica de Regulación de la Eutanasia, Marcial Pons, 
+Madrid, 2021, 243-282.
+San Julián Puig, V., «Distanciamiento entre deontología y Derecho médico», Cua-
+dernos de Bioética, 57 (2005), 191, 220.
+Santos, J. A., «Ética jurídica de la vulnerabilidad al final de la vida: ¿entre la com-
+pasión y la responsabilidad en el morir?, Persona y Derecho, 87 (2022), 417-455.
+Savini Nicci, M. y Vetrugno, G., «Intelligenza artificiale e responsabilità nel 
+settore sanitario», Intelligenza artificiale. Il diritto, i diritti, l’etica, Giuffrè, Mila-
+no, 2020, 601-618.
+Schwartz, W. B., «Medicine and Computer: The promise and Problems of Chan-
+ge», New England Journal of Medicine, 283 (1970), 1257-1264.
+Torre (de la) Díaz, J., «Eutanasia y suicidio asistido. Razones para pensar», Y de 
+nuevo la eutanasia. Una mirada nacional e internacional, Dykinson, Madrid, 2019, 
+15-52.
+Tribunal Constitucional, «Sentencia 168/2021», <https://www.boe.es/diario_
+boe/txt.php?id=BOE-A-2021-18371>
+RAMÓN DARÍO VALDIVIA JIMÉNEZ
+86
+PERSONA Y DERECHO / VOL. 88 / 2023/1
+Tribunal Constitucional, «Nota informativa 81/2021», <https://www.tribu-
+nalconstitucional.es/NotasDePrensaDocumentos/NP_2021_081/NOTA%20
+INFORMATIVA%20N%C2%BA%2081-2021.pdf>
+Van Est, R.; Gerritsen, J. y Kool, L., «Human Rights in the robot age. Challen-
+ges arising from the robotics, artificial intelligence, and virtual and augmented 
+reality», Rathenau Instituut, The Hague, 2017.
+Waelen, R., «AI and manipulation: the ethical question», Rathenau Instituut, 
+<https://www.rathenau.nl/en/digital-governance/ai-and-manipulation-ethi-
+cal-questions>, 8 april 2022 [consulta: 06/09/2022].
+Wisner Glusko, D. C., «Breves reflexiones sobre la importancia del Estado de De-
+recho en el desarrollo del marco legal sobre los sistemas de Inteligencia artifi-
+cial en la Unión Europea», Inteligencia Artificial y Derecho. El jurista ante los retos 
+de la era digital, Thomson Reuters – Aranzadi, Cizur Menor, 2022, 529-548.
+Wood Mak, Y. y Elwyn, G., «Voices of the terminally ill: uncovering the meaning 
+of desire for euthanasia», Palliative Medicine, 19 (2005), 343-350.
+Zurriaráin, R. G., «La ley Orgánica 3/2021 sobre regulación de la eutanasia: ¿Una 
+ley deshumanizadora?», Cuadernos de Bioética, 32 (2021), 251-267.
